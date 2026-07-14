@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>おじさんロマンス</title>
+    <link>https://miuratter.github.io/novel-podcast/ja</link>
+    <language>ja</language>
+    <description>定年間近の大学教授と、様々な女性との年の差ロマンスをAIが朗読するオーディオドラマ番組です。毎話、異なる女性が登場します。</description>
+    <itunes:author>おじさんロマンス</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://miuratter.github.io/novel-podcast/ja/cover.png" />
+    <itunes:category text="Fiction">
+      <itunes:category text="Drama" />
+    </itunes:category>
+    <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>定年間近の大学教授と若い女性のロマンス（ファイル2：高橋 恵美・18歳・ピアノ講師）</title>
+      <description>登場女性:
+名前: 高橋 恵美（たかはし えみ）
+年齢: 18
+職業: ピアノ講師
+髪: ロングヘア
+体型: 普通
+特徴: お洒落・美乳
+話し方: 言葉少ない
+雰囲気: 真面目
+愛情表現: 尽くされたいタイプ
+恋愛スタイル: 慎重（奥手）
+感情面: 照れ屋
+恋愛観: 家庭的
+ステータス: 未婚で彼氏ナシ</description>
+      <pubDate>Tue, 14 Jul 2026 03:45:31 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol2.mp3" length="5617180" type="audio/mpeg" />
+      <guid isPermaLink="false">vol2-ja</guid>
+      <itunes:duration>00:13:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
