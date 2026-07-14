@@ -7,6 +7,10 @@
     <description>定年間近の大学教授と、様々な女性との年の差ロマンスをAIが朗読するオーディオドラマ番組です。毎話、異なる女性が登場します。</description>
     <itunes:author>おじさんロマンス</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>おじさんロマンス</itunes:name>
+      <itunes:email>maimainewyoku@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:image href="https://miuratter.github.io/novel-podcast/ja/cover.png" />
     <itunes:category text="Fiction">
       <itunes:category text="Drama" />
