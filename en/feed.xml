@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ojisan Romance</title>
+    <link>https://miuratter.github.io/novel-podcast/en</link>
+    <language>en-us</language>
+    <description>An AI-narrated audio drama about a professor nearing retirement and his age-gap romances with different women. A new woman appears in every episode.</description>
+    <itunes:author>Ojisan Romance</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://miuratter.github.io/novel-podcast/en/cover.png" />
+    <itunes:category text="Fiction">
+      <itunes:category text="Drama" />
+    </itunes:category>
+    <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Professor Nearing Retirement x Young Woman: A Romance (File 2: Emi Takahashi, 18, Piano Instructor)</title>
+      <description>Female character:
+Name: Emi Takahashi
+Age: 18
+Occupation: Piano Instructor
+Hair: Long
+Body Type: Average
+Features: Fashionable, beautiful bust
+Way of Speaking: Reserved, few words
+Vibe: Serious
+Expression of Affection: Prefers to be doted on
+Romantic Style: Cautious (shy in love)
+Emotional Side: Bashful
+View on Love: Family-oriented
+Status: Single, no boyfriend</description>
+      <pubDate>Tue, 14 Jul 2026 03:45:46 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol2.mp3" length="5254420" type="audio/mpeg" />
+      <guid isPermaLink="false">vol2-en</guid>
+      <itunes:duration>00:12:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
