@@ -7,6 +7,10 @@
     <description>An AI-narrated audio drama about a professor nearing retirement and his age-gap romances with different women. A new woman appears in every episode.</description>
     <itunes:author>Ojisan Romance</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Ojisan Romance</itunes:name>
+      <itunes:email>maimainewyoku@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:image href="https://miuratter.github.io/novel-podcast/en/cover.png" />
     <itunes:category text="Fiction">
       <itunes:category text="Drama" />
