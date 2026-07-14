@@ -1,11 +1,24 @@
-{
-    "volume":  2,
-    "title":  "Nocturne, a Single Note (Emi Takahashi, 18, Piano Instructor, Ordinary)",
-    "description":  "Female character:\nName: Emi Takahashi\nAge: 18\nOccupation: Piano Instructor\nHair: Long\nBody Type: Average\nFeatures: Fashionable, beautiful bust\nWay of Speaking: Reserved, few words\nVibe: Serious\nExpression of Affection: Prefers to be doted on\nRomantic Style: Cautious (shy in love)\nEmotional Side: Bashful\nView on Love: Family-oriented\nStatus: Single, no boyfriend",
-    "pubDate":  "Tue, 14 Jul 2026 03:45:46 +0000",
-    "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol2.mp3",
-    "durationSeconds":  744.32,
-    "durationFormatted":  "00:12:24",
-    "fileSizeBytes":  5254420,
-    "guid":  "vol2-en"
-}
+[
+    {
+        "volume":  2,
+        "title":  "Nocturne, a Single Note (Emi Takahashi, 18, Piano Instructor, Ordinary)",
+        "description":  "Female character:\nName: Emi Takahashi\nAge: 18\nOccupation: Piano Instructor\nHair: Long\nBody Type: Average\nFeatures: Fashionable, beautiful bust\nWay of Speaking: Reserved, few words\nVibe: Serious\nExpression of Affection: Prefers to be doted on\nRomantic Style: Cautious (shy in love)\nEmotional Side: Bashful\nView on Love: Family-oriented\nStatus: Single, no boyfriend",
+        "pubDate":  "Tue, 14 Jul 2026 03:45:46 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol2.mp3",
+        "durationSeconds":  744.32,
+        "durationFormatted":  "00:12:24",
+        "fileSizeBytes":  5254420,
+        "guid":  "vol2-en"
+    },
+    {
+        "volume":  3,
+        "title":  "The Night of the Teacher Training (Hina Tanaka, 22, Teacher, Ordinary)",
+        "description":  "Female character:\nName: Haruna Tanaka\nAge: 22\nOccupation: Teacher\nHair: Brown\nBuild: Average\nFeatures: Petite figure, boyish\nWay of Speaking: Polite\nVibe: Soothing, comforting\nExpression of Love: Devoted\nRomantic Style: Skilled at the push-and-pull of romance\nEmotional Side: Shy, easily embarrassed\nView on Love: Strong desire for marriage\nStatus: Divorced",
+        "pubDate":  "Tue, 14 Jul 2026 15:00:28 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol3.mp3",
+        "durationSeconds":  731.605333,
+        "durationFormatted":  "00:12:11",
+        "fileSizeBytes":  5376652,
+        "guid":  "vol3-en"
+    }
+]
