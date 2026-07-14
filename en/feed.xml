@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>The Night of the Teacher Training (Hina Tanaka, 22, Teacher, Ordinary)</title>
+      <description>Female character:
+Name: Haruna Tanaka
+Age: 22
+Occupation: Teacher
+Hair: Brown
+Build: Average
+Features: Petite figure, boyish
+Way of Speaking: Polite
+Vibe: Soothing, comforting
+Expression of Love: Devoted
+Romantic Style: Skilled at the push-and-pull of romance
+Emotional Side: Shy, easily embarrassed
+View on Love: Strong desire for marriage
+Status: Divorced</description>
+      <pubDate>Tue, 14 Jul 2026 15:00:28 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol3.mp3" length="5376652" type="audio/mpeg" />
+      <guid isPermaLink="false">vol3-en</guid>
+      <itunes:duration>00:12:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nocturne, a Single Note (Emi Takahashi, 18, Piano Instructor, Ordinary)</title>
       <description>Female character:
 Name: Emi Takahashi
