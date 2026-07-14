@@ -20,5 +20,16 @@
         "durationFormatted":  "00:14:23",
         "fileSizeBytes":  6015100,
         "guid":  "vol3-ja"
+    },
+    {
+        "volume":  4,
+        "title":  "髪を切るあいだに（鈴木 雫・18歳・美容師・グラマー（メリハリ））",
+        "description":  "登場女性:\n名前: 鈴木 雫（すずき しずく）\n年齢: 18\n職業: 美容師\n髪: ポニーテール\n体型: グラマー（メリハリ）\n特徴: タレ目・清楚\n話し方: 言葉少ない\n雰囲気: 子供っぽい\n愛情表現: 尽くすタイプ\n恋愛スタイル: 積極的\n感情面: 強がり\n恋愛観: 結婚願望が強い\nステータス: 未婚だが彼氏持ち",
+        "pubDate":  "Tue, 14 Jul 2026 16:06:39 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol4.mp3",
+        "durationSeconds":  911.872,
+        "durationFormatted":  "00:15:11",
+        "fileSizeBytes":  6317164,
+        "guid":  "vol4-ja"
     }
 ]
