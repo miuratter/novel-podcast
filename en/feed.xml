@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>While Cutting Hair (Shizuku Suzuki, 18, Hairdresser, Voluptuous)</title>
+      <description>Female character:
+Name: Shizuku Suzuki
+Age: 18
+Occupation: Hairdresser
+Hair: Ponytail
+Body Type: Glamorous (curvy and well-defined)
+Features: Droopy eyes, neat and elegant
+Way of Speaking: Soft-spoken, few words
+Vibe: Childlike
+Expression of Love: The devoted type
+Romantic Style: Proactive
+Emotional Side: Puts on a tough front
+View on Love: Strong desire for marriage
+Status: Unmarried, but has a boyfriend</description>
+      <pubDate>Tue, 14 Jul 2026 16:06:52 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol4.mp3" length="5523964" type="audio/mpeg" />
+      <guid isPermaLink="false">vol4-en</guid>
+      <itunes:duration>00:13:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Night of the Teacher Training (Hina Tanaka, 22, Teacher, Ordinary)</title>
       <description>Female character:
 Name: Haruna Tanaka
