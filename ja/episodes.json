@@ -64,5 +64,16 @@
         "durationFormatted":  "00:14:01",
         "fileSizeBytes":  5743924,
         "guid":  "vol7-ja"
+    },
+    {
+        "volume":  8,
+        "title":  "雨上がりの、砂場の午後（村上 玲子・25歳・保育士・普通）",
+        "description":  "登場女性:\n名前: 村上 玲子（むらかみ れいこ）\n年齢: 25\n職業: 保育士\n髪: ロングヘア\n体型: 普通\n特徴: ノーメイク・美尻\n話し方: 言葉少ない\n雰囲気: 色気がある\n愛情表現: 甘えさせ上手\n恋愛スタイル: 情熱的\n感情面: 寂しがり屋\n恋愛観: 家庭的\nステータス: 離婚歴有り",
+        "pubDate":  "Wed, 15 Jul 2026 06:27:53 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol8.mp3",
+        "durationSeconds":  888.917333,
+        "durationFormatted":  "00:14:48",
+        "fileSizeBytes":  5946052,
+        "guid":  "vol8-ja"
     }
 ]
