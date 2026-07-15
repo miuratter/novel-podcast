@@ -53,5 +53,16 @@
         "durationFormatted":  "00:13:26",
         "fileSizeBytes":  5390524,
         "guid":  "vol6-ja"
+    },
+    {
+        "volume":  7,
+        "title":  "夜が更けるまでに（石井 紗彩・28歳・秘書・普通）",
+        "description":  "登場女性:\n名前: 石井 紗彩（いしい さあや）\n年齢: 28\n職業: 秘書\n髪: ロングヘア\n体型: 普通\n特徴: お洒落・ノーメイク\n話し方: スロー（ゆっくり）\n雰囲気: 聞き上手\n愛情表現: 尽くすタイプ\n恋愛スタイル: 奥手\n感情面: ギャップがある\n恋愛観: 家庭的\nステータス: 未婚だが彼氏持ち",
+        "pubDate":  "Wed, 15 Jul 2026 06:05:25 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol7.mp3",
+        "durationSeconds":  841.813333,
+        "durationFormatted":  "00:14:01",
+        "fileSizeBytes":  5743924,
+        "guid":  "vol7-ja"
     }
 ]
