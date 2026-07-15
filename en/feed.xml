@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Slowly, in the Afternoon Light (Ayaka Matsumoto, 27, University Student, Slender)</title>
+      <description>Female character:
+Name: Ayaka Matsumoto
+Age: 27
+Occupation: College student
+Hair: Long
+Body type: Slender
+Features: Fair skin, beautiful hips
+Way of speaking: Slow and relaxed
+Vibe: Sociable
+Love language: Likes to be pampered
+Romantic style: Passionate
+Emotional side: Shy
+View on love: Attracted to older men
+Status: Divorced</description>
+      <pubDate>Wed, 15 Jul 2026 05:46:51 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol6.mp3" length="4848964" type="audio/mpeg" />
+      <guid isPermaLink="false">vol6-en</guid>
+      <itunes:duration>00:11:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>After the Evening Lecture (Yuna Yamada, 26, Teacher, Ordinary)</title>
       <description>Female character:
 Name: Yuina Yamada
