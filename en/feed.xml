@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Before the Night Deepens (Saaya Ishii, 28, Secretary, Ordinary)</title>
+      <description>Female character:
+Name: Saaya Ishii
+Age: 28
+Occupation: Secretary
+Hair: Long
+Body Type: Average
+Traits: Fashionable, No makeup
+Way of Speaking: Slow and relaxed
+Vibe: A great listener
+Expression of Affection: Devoted type
+Romantic Style: Shy and reserved
+Emotional Side: Full of surprising contrasts
+View on Love: Family-oriented
+Status: Single but has a boyfriend</description>
+      <pubDate>Wed, 15 Jul 2026 06:05:38 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol7.mp3" length="5328220" type="audio/mpeg" />
+      <guid isPermaLink="false">vol7-en</guid>
+      <itunes:duration>00:12:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Slowly, in the Afternoon Light (Ayaka Matsumoto, 27, University Student, Slender)</title>
       <description>Female character:
 Name: Ayaka Matsumoto
