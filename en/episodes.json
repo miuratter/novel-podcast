@@ -53,5 +53,16 @@
         "durationFormatted":  "00:11:12",
         "fileSizeBytes":  4848964,
         "guid":  "vol6-en"
+    },
+    {
+        "volume":  7,
+        "title":  "Before the Night Deepens (Saaya Ishii, 28, Secretary, Ordinary)",
+        "description":  "Female character:\nName: Saaya Ishii\nAge: 28\nOccupation: Secretary\nHair: Long\nBody Type: Average\nTraits: Fashionable, No makeup\nWay of Speaking: Slow and relaxed\nVibe: A great listener\nExpression of Affection: Devoted type\nRomantic Style: Shy and reserved\nEmotional Side: Full of surprising contrasts\nView on Love: Family-oriented\nStatus: Single but has a boyfriend",
+        "pubDate":  "Wed, 15 Jul 2026 06:05:38 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol7.mp3",
+        "durationSeconds":  734.933333,
+        "durationFormatted":  "00:12:14",
+        "fileSizeBytes":  5328220,
+        "guid":  "vol7-en"
     }
 ]
