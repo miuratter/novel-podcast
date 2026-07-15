@@ -42,5 +42,16 @@
         "durationFormatted":  "00:13:23",
         "fileSizeBytes":  5527564,
         "guid":  "vol5-ja"
+    },
+    {
+        "volume":  6,
+        "title":  "ゆっくり、と午後の光の中で（松本 彩花・27歳・女子大生・スレンダー）",
+        "description":  "登場女性:\n名前: 松本 彩花（まつもと あやか）\n年齢: 27\n職業: 女子大生\n髪: ロングヘア\n体型: スレンダー\n特徴: 色白・美尻\n話し方: スロー（ゆっくり）\n雰囲気: 社交的\n愛情表現: 尽くされたいタイプ\n恋愛スタイル: 情熱的\n感情面: 照れ屋\n恋愛観: おじさん好き\nステータス: 離婚歴有り",
+        "pubDate":  "Wed, 15 Jul 2026 05:46:40 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol6.mp3",
+        "durationSeconds":  806.144,
+        "durationFormatted":  "00:13:26",
+        "fileSizeBytes":  5390524,
+        "guid":  "vol6-ja"
     }
 ]
