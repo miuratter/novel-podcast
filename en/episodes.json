@@ -64,5 +64,16 @@
         "durationFormatted":  "00:12:14",
         "fileSizeBytes":  5328220,
         "guid":  "vol7-en"
+    },
+    {
+        "volume":  8,
+        "title":  "A Sandbox Afternoon After the Rain (Reiko Murakami, 25, Nursery Teacher, Ordinary)",
+        "description":  "Female character:\nName: Reiko Murakami\nAge: 25\nOccupation: Nursery school teacher\nHair: Long\nBody Type: Average\nFeatures: No makeup, beautiful hips\nWay of Speaking: A woman of few words\nVibe: Sensual\nExpression of Affection: Great at making you feel pampered\nRomantic Style: Passionate\nEmotional Side: Prone to loneliness\nView on Love: Family-oriented\nStatus: Divorced",
+        "pubDate":  "Wed, 15 Jul 2026 06:28:03 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol8.mp3",
+        "durationSeconds":  805.632,
+        "durationFormatted":  "00:13:25",
+        "fileSizeBytes":  5720908,
+        "guid":  "vol8-en"
     }
 ]
