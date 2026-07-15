@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>夜が更けるまでに（石井 紗彩・28歳・秘書・普通）</title>
+      <description>登場女性:
+名前: 石井 紗彩（いしい さあや）
+年齢: 28
+職業: 秘書
+髪: ロングヘア
+体型: 普通
+特徴: お洒落・ノーメイク
+話し方: スロー（ゆっくり）
+雰囲気: 聞き上手
+愛情表現: 尽くすタイプ
+恋愛スタイル: 奥手
+感情面: ギャップがある
+恋愛観: 家庭的
+ステータス: 未婚だが彼氏持ち</description>
+      <pubDate>Wed, 15 Jul 2026 06:05:25 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol7.mp3" length="5743924" type="audio/mpeg" />
+      <guid isPermaLink="false">vol7-ja</guid>
+      <itunes:duration>00:14:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>ゆっくり、と午後の光の中で（松本 彩花・27歳・女子大生・スレンダー）</title>
       <description>登場女性:
 名前: 松本 彩花（まつもと あやか）
