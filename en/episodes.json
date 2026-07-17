@@ -108,5 +108,16 @@
         "durationFormatted":  "00:11:25",
         "fileSizeBytes":  4909588,
         "guid":  "vol11-en"
+    },
+    {
+        "volume":  12,
+        "title":  "The Light Within the Subject (Rika Nakamura, 20, Model, Ordinary)",
+        "description":  "Female character:\nName: Rika Nakamura\nAge: 20\nOccupation: Model\nHair: Long hair\nBody Type: Average\nTraits: Boyish, fashionable\nWay of Speaking: Slow and relaxed\nVibe: Sensual\nExpression of Love: Romantic\nDating Style: Shy and reserved\nEmotional Side: Prone to jealousy\nView on Love: Strong desire for marriage\nStatus: Unmarried, but has a boyfriend",
+        "pubDate":  "Fri, 17 Jul 2026 07:01:10 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol12.mp3",
+        "durationSeconds":  751.402667,
+        "durationFormatted":  "00:12:31",
+        "fileSizeBytes":  5303092,
+        "guid":  "vol12-en"
     }
 ]
