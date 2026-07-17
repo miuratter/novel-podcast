@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>The Sound of Scissors, a Quiet Night (Mutsumi Takano, 25, Hairdresser, Slender)</title>
+      <description>Female character:
+Name: Mutsumi Takano
+Age: 25
+Occupation: Hairstylist
+Hair: Black
+Figure: Slender
+Features: Beautiful skin, no makeup
+Way of Speaking: Reserved, few words
+Vibe: Elegant
+Expressions of Affection: Loves to be pampered
+Romantic Style: Falls in love easily
+Emotional Side: Shy
+View on Love: Prone to cheating
+Status: Single, no boyfriend</description>
+      <pubDate>Fri, 17 Jul 2026 06:39:10 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol11.mp3" length="4909588" type="audio/mpeg" />
+      <guid isPermaLink="false">vol11-en</guid>
+      <itunes:duration>00:11:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Other Side of the Virgin Road (Hinata Fujita, 22, Wedding Planner, Ordinary)</title>
       <description>Female character:
 Name: Hinata Fujita
