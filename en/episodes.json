@@ -75,5 +75,16 @@
         "durationFormatted":  "00:13:25",
         "fileSizeBytes":  5720908,
         "guid":  "vol8-en"
+    },
+    {
+        "volume":  9,
+        "title":  "The Sound of Scissors, a Drowsy Afternoon (Yuri Kawaguchi, 19, Hairdresser, Ordinary)",
+        "description":  "Female character:\nName: Yuri Kawaguchi\nAge: 19\nOccupation: Hairstylist\nHair: Black\nBody Type: Average\nFeatures: Beautiful legs, small breasts\nWay of Speaking: A woman of few words\nVibe: Serious\nExpression of Affection: Romantic\nRomantic Style: Passionate\nEmotional Side: Honest\nView on Love: Attracted to older men\nStatus: Divorced",
+        "pubDate":  "Fri, 17 Jul 2026 05:45:59 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol9.mp3",
+        "durationSeconds":  631.808,
+        "durationFormatted":  "00:10:31",
+        "fileSizeBytes":  4434436,
+        "guid":  "vol9-en"
     }
 ]
