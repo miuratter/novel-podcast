@@ -97,5 +97,16 @@
         "durationFormatted":  "00:12:49",
         "fileSizeBytes":  5521468,
         "guid":  "vol10-en"
+    },
+    {
+        "volume":  11,
+        "title":  "The Sound of Scissors, a Quiet Night (Mutsumi Takano, 25, Hairdresser, Slender)",
+        "description":  "Female character:\nName: Mutsumi Takano\nAge: 25\nOccupation: Hairstylist\nHair: Black\nFigure: Slender\nFeatures: Beautiful skin, no makeup\nWay of Speaking: Reserved, few words\nVibe: Elegant\nExpressions of Affection: Loves to be pampered\nRomantic Style: Falls in love easily\nEmotional Side: Shy\nView on Love: Prone to cheating\nStatus: Single, no boyfriend",
+        "pubDate":  "Fri, 17 Jul 2026 06:39:10 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol11.mp3",
+        "durationSeconds":  685.909333,
+        "durationFormatted":  "00:11:25",
+        "fileSizeBytes":  4909588,
+        "guid":  "vol11-en"
     }
 ]
