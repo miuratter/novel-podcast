@@ -97,5 +97,16 @@
         "durationFormatted":  "00:15:00",
         "fileSizeBytes":  6231556,
         "guid":  "vol10-ja"
+    },
+    {
+        "volume":  11,
+        "title":  "鋏の音、静かな夜（高野 睦・25歳・美容師・スレンダー）",
+        "description":  "登場女性:\n名前: 高野 睦（たかの むつみ）\n年齢: 25\n職業: 美容師\n髪: 黒髪\n体型: スレンダー\n特徴: 美肌・ノーメイク\n話し方: 言葉少ない\n雰囲気: 上品\n愛情表現: 甘えん坊\n恋愛スタイル: 恋愛体質（惚れやすい）\n感情面: 照れ屋\n恋愛観: 浮気しやすい\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Fri, 17 Jul 2026 06:38:54 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol11.mp3",
+        "durationSeconds":  796.202667,
+        "durationFormatted":  "00:13:16",
+        "fileSizeBytes":  5335204,
+        "guid":  "vol11-ja"
     }
 ]
