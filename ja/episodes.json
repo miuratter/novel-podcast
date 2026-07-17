@@ -86,5 +86,16 @@
         "durationFormatted":  "00:12:47",
         "fileSizeBytes":  5108164,
         "guid":  "vol9-ja"
+    },
+    {
+        "volume":  10,
+        "title":  "ヴァージンロードの向こう側（藤田 ひなた・22歳・ウェディングプランナー・普通）",
+        "description":  "登場女性:\n名前: 藤田 ひなた（ふじた ひなた）\n年齢: 22\n職業: ウェディングプランナー\n髪: ロングヘア\n体型: 普通\n特徴: 清楚・ギャル\n話し方: スロー（ゆっくり）\n雰囲気: 子供っぽい\n愛情表現: 甘えん坊\n恋愛スタイル: 積極的\n感情面: 照れ屋\n恋愛観: 浮気しやすい\nステータス: 既婚",
+        "pubDate":  "Fri, 17 Jul 2026 06:11:51 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol10.mp3",
+        "durationSeconds":  900.224,
+        "durationFormatted":  "00:15:00",
+        "fileSizeBytes":  6231556,
+        "guid":  "vol10-ja"
     }
 ]
