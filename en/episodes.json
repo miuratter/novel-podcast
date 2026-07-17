@@ -86,5 +86,16 @@
         "durationFormatted":  "00:10:31",
         "fileSizeBytes":  4434436,
         "guid":  "vol9-en"
+    },
+    {
+        "volume":  10,
+        "title":  "The Other Side of the Virgin Road (Hinata Fujita, 22, Wedding Planner, Ordinary)",
+        "description":  "Female character:\nName: Hinata Fujita\nAge: 22\nOccupation: Wedding Planner\nHair: Long hair\nBody Type: Average\nTraits: Neat and elegant, yet with a gyaru vibe\nWay of Speaking: Slow and relaxed\nVibe: Childlike\nExpression of Affection: Loves to be pampered\nRomantic Style: Proactive\nEmotional Side: Easily embarrassed\nView on Love: Prone to cheating\nStatus: Married",
+        "pubDate":  "Fri, 17 Jul 2026 06:12:09 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol10.mp3",
+        "durationSeconds":  769.408,
+        "durationFormatted":  "00:12:49",
+        "fileSizeBytes":  5521468,
+        "guid":  "vol10-en"
     }
 ]
