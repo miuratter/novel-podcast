@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>被写体の中の光（中村 梨花・20歳・モデル・普通）</title>
+      <description>登場女性:
+名前: 中村 梨花（なかむら りか）
+年齢: 20
+職業: モデル
+髪: ロングヘア
+体型: 普通
+特徴: ボーイッシュ・お洒落
+話し方: スロー（ゆっくり）
+雰囲気: 色気がある
+愛情表現: ロマンチスト
+恋愛スタイル: 奥手
+感情面: 嫉妬深い
+恋愛観: 結婚願望が強い
+ステータス: 未婚だが彼氏持ち</description>
+      <pubDate>Fri, 17 Jul 2026 07:00:53 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol12.mp3" length="6051340" type="audio/mpeg" />
+      <guid isPermaLink="false">vol12-ja</guid>
+      <itunes:duration>00:14:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>鋏の音、静かな夜（高野 睦・25歳・美容師・スレンダー）</title>
       <description>登場女性:
 名前: 高野 睦（たかの むつみ）
