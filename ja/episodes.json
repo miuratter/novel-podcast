@@ -108,5 +108,16 @@
         "durationFormatted":  "00:13:16",
         "fileSizeBytes":  5335204,
         "guid":  "vol11-ja"
+    },
+    {
+        "volume":  12,
+        "title":  "被写体の中の光（中村 梨花・20歳・モデル・普通）",
+        "description":  "登場女性:\n名前: 中村 梨花（なかむら りか）\n年齢: 20\n職業: モデル\n髪: ロングヘア\n体型: 普通\n特徴: ボーイッシュ・お洒落\n話し方: スロー（ゆっくり）\n雰囲気: 色気がある\n愛情表現: ロマンチスト\n恋愛スタイル: 奥手\n感情面: 嫉妬深い\n恋愛観: 結婚願望が強い\nステータス: 未婚だが彼氏持ち",
+        "pubDate":  "Fri, 17 Jul 2026 07:00:53 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol12.mp3",
+        "durationSeconds":  879.786667,
+        "durationFormatted":  "00:14:39",
+        "fileSizeBytes":  6051340,
+        "guid":  "vol12-ja"
     }
 ]
