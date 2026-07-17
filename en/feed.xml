@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>The Other Side of the Virgin Road (Hinata Fujita, 22, Wedding Planner, Ordinary)</title>
+      <description>Female character:
+Name: Hinata Fujita
+Age: 22
+Occupation: Wedding Planner
+Hair: Long hair
+Body Type: Average
+Traits: Neat and elegant, yet with a gyaru vibe
+Way of Speaking: Slow and relaxed
+Vibe: Childlike
+Expression of Affection: Loves to be pampered
+Romantic Style: Proactive
+Emotional Side: Easily embarrassed
+View on Love: Prone to cheating
+Status: Married</description>
+      <pubDate>Fri, 17 Jul 2026 06:12:09 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol10.mp3" length="5521468" type="audio/mpeg" />
+      <guid isPermaLink="false">vol10-en</guid>
+      <itunes:duration>00:12:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Sound of Scissors, a Drowsy Afternoon (Yuri Kawaguchi, 19, Hairdresser, Ordinary)</title>
       <description>Female character:
 Name: Yuri Kawaguchi
