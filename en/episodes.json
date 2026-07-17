@@ -119,5 +119,16 @@
         "durationFormatted":  "00:12:31",
         "fileSizeBytes":  5303092,
         "guid":  "vol12-en"
+    },
+    {
+        "volume":  13,
+        "title":  "Cappuccino After the Rain (Ai Kawasaki, 21, Café Employee, Model-Slim Figure)",
+        "description":  "Female character:\nName: Ai Kawasaki\nAge: 21\nOccupation: Café staff\nHair: Black hair\nBody type: Model-like figure\nFeatures: No makeup, virgin\nWay of speaking: Often uses polite language\nVibe: Shy around strangers\nExpression of love: The devoted type\nRomantic style: Falls in love easily\nEmotional side: Gets lonely easily\nView on love: Strong desire to marry\nStatus: Unmarried, but has a boyfriend",
+        "pubDate":  "Fri, 17 Jul 2026 09:33:11 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol13.mp3",
+        "durationSeconds":  751.616,
+        "durationFormatted":  "00:12:31",
+        "fileSizeBytes":  5367916,
+        "guid":  "vol13-en"
     }
 ]
