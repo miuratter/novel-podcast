@@ -130,5 +130,16 @@
         "durationFormatted":  "00:12:31",
         "fileSizeBytes":  5367916,
         "guid":  "vol13-en"
+    },
+    {
+        "volume":  14,
+        "title":  "The Afterglow of Elegance (Fujiwara Kaine, 29, Cosplayer, Model Build)",
+        "description":  "Female character:\nName: Mion Fujiwara (藤原 海音)\nAge: 29\nOccupation: Cosplayer\nHair: Black hair\nBody Type: Model figure\nFeatures: Boyish yet glamorous\nSpeech Style: Slow and calm\nVibe: Soothing/healing presence\nLove Language: Devoted, acts of service\nRomantic Style: Cautious, slow to open up\nEmotional Side: Prone to jealousy\nRomantic Preference: Into older men\nStatus: Single, no boyfriend",
+        "pubDate":  "Sat, 18 Jul 2026 10:08:51 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol14.mp3",
+        "durationSeconds":  484.224,
+        "durationFormatted":  "00:08:04",
+        "fileSizeBytes":  3450364,
+        "guid":  "vol14-en"
     }
 ]
