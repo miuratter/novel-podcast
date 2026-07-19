@@ -141,5 +141,16 @@
         "durationFormatted":  "00:09:15",
         "fileSizeBytes":  3784036,
         "guid":  "vol14-ja"
+    },
+    {
+        "volume":  15,
+        "title":  "窓辺の共犯者（黒崎 奈々・30歳・警察官・普通）",
+        "description":  "登場女性:\n名前: 黒崎 奈々（くろさき なな）\n年齢: 30\n職業: 警察官\n髪: 茶髪\n体型: 普通\n特徴: ボーイッシュ・美肌\n話し方: 言葉少ない\n雰囲気: 真面目\n愛情表現: 一途\n恋愛スタイル: 慎重（奥手）\n感情面: ギャップがある\n恋愛観: ロマンチスト\nステータス: 未婚だが彼氏持ち",
+        "pubDate":  "Sun, 19 Jul 2026 07:29:59 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol15.mp3",
+        "durationSeconds":  617.642667,
+        "durationFormatted":  "00:10:17",
+        "fileSizeBytes":  4218028,
+        "guid":  "vol15-ja"
     }
 ]
