@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Accomplice by the Window (Nana Kurosaki, 30, Police Officer, Average)</title>
+      <description>Female character:
+Name: Nana Kurosaki
+Age: 30
+Occupation: Police Officer
+Hair: Brown
+Body Type: Average
+Features: Boyish, Beautiful Skin
+Speech Style: Few Words
+Atmosphere: Serious
+Way of Showing Love: Devoted
+Love Style: Cautious (Reserved)
+Emotional Side: Has Contrasting Sides
+View on Love: Romantic
+Status: Unmarried but has a Boyfriend</description>
+      <pubDate>Sun, 19 Jul 2026 07:30:14 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol15.mp3" length="3616060" type="audio/mpeg" />
+      <guid isPermaLink="false">vol15-en</guid>
+      <itunes:duration>00:08:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Afterglow of Elegance (Fujiwara Kaine, 29, Cosplayer, Model Build)</title>
       <description>Female character:
 Name: Mion Fujiwara (藤原 海音)
