@@ -141,5 +141,16 @@
         "durationFormatted":  "00:08:04",
         "fileSizeBytes":  3450364,
         "guid":  "vol14-en"
+    },
+    {
+        "volume":  15,
+        "title":  "Accomplice by the Window (Nana Kurosaki, 30, Police Officer, Average)",
+        "description":  "Female character:\nName: Nana Kurosaki\nAge: 30\nOccupation: Police Officer\nHair: Brown\nBody Type: Average\nFeatures: Boyish, Beautiful Skin\nSpeech Style: Few Words\nAtmosphere: Serious\nWay of Showing Love: Devoted\nLove Style: Cautious (Reserved)\nEmotional Side: Has Contrasting Sides\nView on Love: Romantic\nStatus: Unmarried but has a Boyfriend",
+        "pubDate":  "Sun, 19 Jul 2026 07:30:14 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol15.mp3",
+        "durationSeconds":  509.354667,
+        "durationFormatted":  "00:08:29",
+        "fileSizeBytes":  3616060,
+        "guid":  "vol15-en"
     }
 ]
