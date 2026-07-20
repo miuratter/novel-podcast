@@ -152,5 +152,16 @@
         "durationFormatted":  "00:10:17",
         "fileSizeBytes":  4218028,
         "guid":  "vol15-ja"
+    },
+    {
+        "volume":  16,
+        "title":  "寂しがり屋の夜に、教授は灯りをともす（中村 美香・23歳・アナウンサー・スレンダー）",
+        "description":  "登場女性:\n名前: 中村 美香（なかむら よしか）\n年齢: 23\n職業: アナウンサー\n髪: ロングヘア\n体型: スレンダー\n特徴: 艶やか・小柄\n話し方: タメ口\n雰囲気: 色気がある\n愛情表現: スキンシップ好き\n恋愛スタイル: 積極的\n感情面: 寂しがり屋\n恋愛観: おじさん好き\nステータス: 離婚歴有り",
+        "pubDate":  "Mon, 20 Jul 2026 06:12:17 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol16.mp3",
+        "durationSeconds":  519.338667,
+        "durationFormatted":  "00:08:39",
+        "fileSizeBytes":  3551692,
+        "guid":  "vol16-ja"
     }
 ]
