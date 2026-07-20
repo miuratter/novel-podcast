@@ -152,5 +152,16 @@
         "durationFormatted":  "00:08:29",
         "fileSizeBytes":  3616060,
         "guid":  "vol15-en"
+    },
+    {
+        "volume":  16,
+        "title":  "寂しがり屋の夜に、教授は灯りをともす（中村美香・23歳・アナウンサー・スレンダー）",
+        "description":  "Female character:\nName: Yoshika Nakamura\nAge: 23\nOccupation: Announcer\nHair: Long hair\nBody Type: Slender\nFeatures: Glossy, petite\nSpeech Style: Casual (uses informal speech)\nVibe: Sensual/alluring\nAffection Style: Loves physical touch\nRomantic Style: Assertive/proactive\nEmotional Side: Gets lonely easily\nRomantic Preference: Likes older men\nStatus: Divorced",
+        "pubDate":  "Mon, 20 Jul 2026 06:12:30 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol16.mp3",
+        "durationSeconds":  419.413333,
+        "durationFormatted":  "00:06:59",
+        "fileSizeBytes":  3038740,
+        "guid":  "vol16-en"
     }
 ]
