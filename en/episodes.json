@@ -163,5 +163,16 @@
         "durationFormatted":  "00:06:59",
         "fileSizeBytes":  3038740,
         "guid":  "vol16-en"
+    },
+    {
+        "volume":  17,
+        "title":  "A Night on the Flight, the Professor\u0027s Gaze (Sakamoto Yuina, 30, Flight Attendant, Slender)",
+        "description":  "Female character:\nName: Yuna Sakamoto\nAge: 30\nOccupation: Flight Attendant\nHair: Long hair\nBody Type: Slender\nFeatures: Boyish charm, beautiful hips\nSpeech Style: Polite\nVibe: Soothing, healing presence\nWay of Showing Affection: Great at being affectionate/spoiling her partner\nLove Style: Proactive\nEmotional Side: Tends to act tough\nViews on Love: Strong desire to get married\nStatus: Single, no boyfriend",
+        "pubDate":  "Tue, 21 Jul 2026 01:00:41 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol17.mp3",
+        "durationSeconds":  496.256,
+        "durationFormatted":  "00:08:16",
+        "fileSizeBytes":  3503356,
+        "guid":  "vol17-en"
     }
 ]
