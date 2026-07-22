@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Reception Desk: The Other Side (Mina Ogawa, 30, Corporate Receptionist, Slender)</title>
+      <description>Female character:
+Name: Mina Ogawa
+Age: 30
+Occupation: Receptionist at a Major Corporation
+Hair: Ponytail
+Body Type: Slender
+Features: Small Chest, Glasses
+Speech Style: Casual (Tameguchi)
+Vibe: Childlike
+Expression of Love: Romantic
+Love Style: Passionate
+Emotional Side: Tough on the Outside
+View on Love: Romantic
+Status: Single but Has a Boyfriend</description>
+      <pubDate>Wed, 22 Jul 2026 10:38:22 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol18.mp3" length="3426388" type="audio/mpeg" />
+      <guid isPermaLink="false">vol18-en</guid>
+      <itunes:duration>00:08:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>A Night on the Flight, the Professor's Gaze (Sakamoto Yuina, 30, Flight Attendant, Slender)</title>
       <description>Female character:
 Name: Yuna Sakamoto
