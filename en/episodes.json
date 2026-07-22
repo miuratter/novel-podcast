@@ -174,5 +174,16 @@
         "durationFormatted":  "00:08:16",
         "fileSizeBytes":  3503356,
         "guid":  "vol17-en"
+    },
+    {
+        "volume":  18,
+        "title":  "Reception Desk: The Other Side (Mina Ogawa, 30, Corporate Receptionist, Slender)",
+        "description":  "Female character:\nName: Mina Ogawa\nAge: 30\nOccupation: Receptionist at a Major Corporation\nHair: Ponytail\nBody Type: Slender\nFeatures: Small Chest, Glasses\nSpeech Style: Casual (Tameguchi)\nVibe: Childlike\nExpression of Love: Romantic\nLove Style: Passionate\nEmotional Side: Tough on the Outside\nView on Love: Romantic\nStatus: Single but Has a Boyfriend",
+        "pubDate":  "Wed, 22 Jul 2026 10:38:22 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol18.mp3",
+        "durationSeconds":  483.2,
+        "durationFormatted":  "00:08:03",
+        "fileSizeBytes":  3426388,
+        "guid":  "vol18-en"
     }
 ]
