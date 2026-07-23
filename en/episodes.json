@@ -185,5 +185,16 @@
         "durationFormatted":  "00:08:03",
         "fileSizeBytes":  3426388,
         "guid":  "vol18-en"
+    },
+    {
+        "volume":  19,
+        "title":  "Light Beneath the Surface (Sakurai Yuka, 19, Underground Idol, Slender)",
+        "description":  "Female character:\nName: Yuka Sakurai\nAge: 19\nOccupation: Underground Idol\nHair: Short hair\nBody Type: Slender\nFeatures: Delicate and glamorous\nSpeech Style: Slow-paced\nVibe: Mature\nWay of Showing Love: Devoted, all-in type\nLove Style: Passionate\nEmotional Side: Full of contrasts (has a hidden gap)\nLove Views: Prone to cheating\nStatus: Single, no boyfriend",
+        "pubDate":  "Thu, 23 Jul 2026 10:25:58 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol19.mp3",
+        "durationSeconds":  442.112,
+        "durationFormatted":  "00:07:22",
+        "fileSizeBytes":  3059524,
+        "guid":  "vol19-en"
     }
 ]
