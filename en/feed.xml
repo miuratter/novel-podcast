@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Light Beneath the Surface (Sakurai Yuka, 19, Underground Idol, Slender)</title>
+      <description>Female character:
+Name: Yuka Sakurai
+Age: 19
+Occupation: Underground Idol
+Hair: Short hair
+Body Type: Slender
+Features: Delicate and glamorous
+Speech Style: Slow-paced
+Vibe: Mature
+Way of Showing Love: Devoted, all-in type
+Love Style: Passionate
+Emotional Side: Full of contrasts (has a hidden gap)
+Love Views: Prone to cheating
+Status: Single, no boyfriend</description>
+      <pubDate>Thu, 23 Jul 2026 10:25:58 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol19.mp3" length="3059524" type="audio/mpeg" />
+      <guid isPermaLink="false">vol19-en</guid>
+      <itunes:duration>00:07:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Reception Desk: The Other Side (Mina Ogawa, 30, Corporate Receptionist, Slender)</title>
       <description>Female character:
 Name: Mina Ogawa
