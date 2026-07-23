@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>水面下の光（桜井 夕香・19歳・地下アイドル・スレンダー）</title>
+      <description>登場女性:
+名前: 桜井 夕香（さくらい ゆうか）
+年齢: 19
+職業: 地下アイドル
+髪: ショートヘア
+体型: スレンダー
+特徴: 華奢・艶やか
+話し方: スロー（ゆっくり）
+雰囲気: 大人っぽい
+愛情表現: 尽くすタイプ
+恋愛スタイル: 情熱的
+感情面: ギャップがある
+恋愛観: 浮気しやすい
+ステータス: 未婚で彼氏ナシ</description>
+      <pubDate>Thu, 23 Jul 2026 10:25:47 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol19.mp3" length="3635956" type="audio/mpeg" />
+      <guid isPermaLink="false">vol19-ja</guid>
+      <itunes:duration>00:09:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>タイトル:受付カウンターの向こう側（小川 美奈・30歳・大企業受付・スレンダー）</title>
       <description>登場女性:
 名前: 小川 美奈（おがわ みな）
