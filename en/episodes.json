@@ -196,5 +196,16 @@
         "durationFormatted":  "00:07:22",
         "fileSizeBytes":  3059524,
         "guid":  "vol19-en"
+    },
+    {
+        "volume":  20,
+        "title":  "Thin Ice Study (Yui Takayanagi, 27, Young Lady, Slender)",
+        "description":  "Female character:\nName: Yui Takayanagi\nAge: 27\nOccupation: Young Lady (from a wealthy family)\nHair: Long hair\nBody Type: Slender\nFeatures: Elegant and pure, no makeup\nSpeech Style: Casual (uses informal speech)\nAtmosphere: Sensual charm\nWay of Showing Love: Devoted type\nLove Style: Cautious (reserved/shy)\nEmotional Side: Has a gap between appearance and true feelings\nLove Views: Prone to cheating\nStatus: Single, no boyfriend",
+        "pubDate":  "Fri, 24 Jul 2026 10:15:12 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol20.mp3",
+        "durationSeconds":  501.845333,
+        "durationFormatted":  "00:08:21",
+        "fileSizeBytes":  3521428,
+        "guid":  "vol20-en"
     }
 ]
