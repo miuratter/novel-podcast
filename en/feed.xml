@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Thin Ice Study (Yui Takayanagi, 27, Young Lady, Slender)</title>
+      <description>Female character:
+Name: Yui Takayanagi
+Age: 27
+Occupation: Young Lady (from a wealthy family)
+Hair: Long hair
+Body Type: Slender
+Features: Elegant and pure, no makeup
+Speech Style: Casual (uses informal speech)
+Atmosphere: Sensual charm
+Way of Showing Love: Devoted type
+Love Style: Cautious (reserved/shy)
+Emotional Side: Has a gap between appearance and true feelings
+Love Views: Prone to cheating
+Status: Single, no boyfriend</description>
+      <pubDate>Fri, 24 Jul 2026 10:15:12 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol20.mp3" length="3521428" type="audio/mpeg" />
+      <guid isPermaLink="false">vol20-en</guid>
+      <itunes:duration>00:08:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Light Beneath the Surface (Sakurai Yuka, 19, Underground Idol, Slender)</title>
       <description>Female character:
 Name: Yuka Sakurai
