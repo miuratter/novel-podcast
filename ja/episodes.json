@@ -229,5 +229,16 @@
         "durationFormatted":  "00:10:36",
         "fileSizeBytes":  4317460,
         "guid":  "vol22-ja"
+    },
+    {
+        "volume":  24,
+        "title":  "迷い犬と、教授の余裕（中島 愛莉・19歳・トリマー・普通）",
+        "description":  "登場女性:\n名前: 中島 愛莉（なかじま あいり）\n年齢: 19\n職業: トリマー\n髪: ロングヘア\n体型: 普通\n特徴: ギャル・小柄\n話し方: 敬語が多い\n雰囲気: 子供っぽい\n愛情表現: 甘えさせ上手\n恋愛スタイル: 駆け引き上手\n感情面: ギャップがある\n恋愛観: 結婚願望が強い\nステータス: 未婚だが彼氏持ち",
+        "pubDate":  "Mon, 27 Jul 2026 06:18:55 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol24.mp3",
+        "durationSeconds":  622.848,
+        "durationFormatted":  "00:10:22",
+        "fileSizeBytes":  4165876,
+        "guid":  "vol24-ja"
     }
 ]
