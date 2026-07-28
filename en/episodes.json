@@ -240,5 +240,16 @@
         "durationFormatted":  "00:07:52",
         "fileSizeBytes":  3317140,
         "guid":  "vol24-en"
+    },
+    {
+        "volume":  25,
+        "title":  "The Other Side of the Podium (Ono Ayane, 30, Teacher, Curvy)",
+        "description":  "Female character:\nName: Ayane Ono\nAge: 30\nOccupation: Teacher\nHair: Black hair\nBody Type: Curvy\nFeatures: Small chest, stylish\nSpeech Style: Fast talker\nAtmosphere: Serious/diligent\nWay of Showing Affection: Loves physical touch\nLove Style: Falls in love easily\nEmotional Side: Easily flustered/shy\nView on Love: Family-oriented\nStatus: Single, no boyfriend",
+        "pubDate":  "Tue, 28 Jul 2026 11:10:19 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol25.mp3",
+        "durationSeconds":  472.490667,
+        "durationFormatted":  "00:07:52",
+        "fileSizeBytes":  3363508,
+        "guid":  "vol25-en"
     }
 ]
