@@ -251,5 +251,16 @@
         "durationFormatted":  "00:07:52",
         "fileSizeBytes":  3363508,
         "guid":  "vol25-en"
+    },
+    {
+        "volume":  26,
+        "title":  "On the Other Side of the White Dress (Ishida Mino, 27, Wedding Planner, Model Figure)",
+        "description":  "Female character:\nName: Yoshino Ishida\nAge: 27\nOccupation: Wedding Planner\nHair: Long hair\nBuild: Model-like figure\nFeatures: Elegant and graceful, beautiful skin\nSpeech Style: Speaks few words\nVibe: Airheaded/natural\nAffection Style: Loves physical touch\nRomantic Style: Cautious (slow to open up)\nEmotional Type: Tsundere\nViews on Love: Family-oriented\nStatus: Married",
+        "pubDate":  "Wed, 29 Jul 2026 08:57:26 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol26.mp3",
+        "durationSeconds":  406.229333,
+        "durationFormatted":  "00:06:46",
+        "fileSizeBytes":  2853724,
+        "guid":  "vol26-en"
     }
 ]
