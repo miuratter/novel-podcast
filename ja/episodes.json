@@ -251,5 +251,16 @@
         "durationFormatted":  "00:09:02",
         "fileSizeBytes":  3654772,
         "guid":  "vol25-ja"
+    },
+    {
+        "volume":  26,
+        "title":  "白いドレスの向こう側（石田 美乃・27歳・ウェディングプランナー・モデル体型）",
+        "description":  "登場女性:\n名前: 石田 美乃（いしだ よしの）\n年齢: 27\n職業: ウェディングプランナー\n髪: ロングヘア\n体型: モデル体型\n特徴: 清楚・美肌\n話し方: 言葉少ない\n雰囲気: 天然\n愛情表現: スキンシップ好き\n恋愛スタイル: 慎重（奥手）\n感情面: ツンデレ\n恋愛観: 家庭的\nステータス: 既婚",
+        "pubDate":  "Wed, 29 Jul 2026 08:57:16 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol26.mp3",
+        "durationSeconds":  427.904,
+        "durationFormatted":  "00:07:07",
+        "fileSizeBytes":  2852428,
+        "guid":  "vol26-ja"
     }
 ]
