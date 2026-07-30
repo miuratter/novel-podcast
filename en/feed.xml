@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Night with Professor Nagai and His Secretary</title>
+      <description>Female character:
+Name: Yuki Okada
+Age: 18
+Occupation: Secretary
+Hair: Black hair
+Body Type: Slender
+Features: Baby-faced, elegant and pure
+Speech Style: Fast talker
+Atmosphere: Gentle
+Love Expression: Devoted type
+Romance Style: Shy and reserved
+Emotional Trait: Tsundere
+Love Views: Prone to cheating
+Status: Divorced</description>
+      <pubDate>Thu, 30 Jul 2026 09:45:22 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol27.mp3" length="3486148" type="audio/mpeg" />
+      <guid isPermaLink="false">vol27-en</guid>
+      <itunes:duration>00:08:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>On the Other Side of the White Dress (Ishida Mino, 27, Wedding Planner, Model Figure)</title>
       <description>Female character:
 Name: Yoshino Ishida
