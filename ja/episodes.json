@@ -262,5 +262,16 @@
         "durationFormatted":  "00:07:07",
         "fileSizeBytes":  2852428,
         "guid":  "vol26-ja"
+    },
+    {
+        "volume":  27,
+        "title":  "永井教授と一夜の秘書（岡田 優希・18歳・秘書・スレンダー）",
+        "description":  "登場女性:\n名前: 岡田 優希（おかだ ゆうき）\n年齢: 18\n職業: 秘書\n髪: 黒髪\n体型: スレンダー\n特徴: 童顔・清楚\n話し方: 早口\n雰囲気: 優しい\n愛情表現: 尽くすタイプ\n恋愛スタイル: 奥手\n感情面: ツンデレ\n恋愛観: 浮気しやすい\nステータス: 離婚歴有り",
+        "pubDate":  "Thu, 30 Jul 2026 09:45:12 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol27.mp3",
+        "durationSeconds":  555.008,
+        "durationFormatted":  "00:09:15",
+        "fileSizeBytes":  3808492,
+        "guid":  "vol27-ja"
     }
 ]
