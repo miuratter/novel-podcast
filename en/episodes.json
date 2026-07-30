@@ -262,5 +262,16 @@
         "durationFormatted":  "00:06:46",
         "fileSizeBytes":  2853724,
         "guid":  "vol26-en"
+    },
+    {
+        "volume":  27,
+        "title":  "A Night with Professor Nagai and His Secretary",
+        "description":  "Female character:\nName: Yuki Okada\nAge: 18\nOccupation: Secretary\nHair: Black hair\nBody Type: Slender\nFeatures: Baby-faced, elegant and pure\nSpeech Style: Fast talker\nAtmosphere: Gentle\nLove Expression: Devoted type\nRomance Style: Shy and reserved\nEmotional Trait: Tsundere\nLove Views: Prone to cheating\nStatus: Divorced",
+        "pubDate":  "Thu, 30 Jul 2026 09:45:22 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol27.mp3",
+        "durationSeconds":  491.392,
+        "durationFormatted":  "00:08:11",
+        "fileSizeBytes":  3486148,
+        "guid":  "vol27-en"
     }
 ]
