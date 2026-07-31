@@ -273,5 +273,16 @@
         "durationFormatted":  "00:09:15",
         "fileSizeBytes":  3808492,
         "guid":  "vol27-ja"
+    },
+    {
+        "volume":  28,
+        "title":  "雲の上で、夜が更けるまで（山城 美紀・18歳・CA（客室乗務員）・普通）",
+        "description":  "登場女性:\n名前: 山城 美紀（やましろ みき）\n年齢: 18\n職業: CA（客室乗務員）\n髪: 黒髪\n体型: 普通\n特徴: タレ目・美脚\n話し方: 敬語が多い\n雰囲気: 社交的\n愛情表現: 甘えん坊\n恋愛スタイル: 慎重（奥手）\n感情面: 素直\n恋愛観: 家庭的\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Fri, 31 Jul 2026 07:49:35 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol28.mp3",
+        "durationSeconds":  664.746667,
+        "durationFormatted":  "00:11:04",
+        "fileSizeBytes":  4473676,
+        "guid":  "vol28-ja"
     }
 ]
