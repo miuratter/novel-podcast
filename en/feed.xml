@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Above the Clouds, Until Night Deepens (Yamashiro Miki, 18, Flight Attendant, Ordinary)</title>
+      <description>Female character:
+Name: Miki Yamashiro
+Age: 18
+Occupation: Flight Attendant
+Hair: Black hair
+Body Type: Average
+Features: Droopy eyes, beautiful legs
+Speech Style: Frequently uses polite language
+Atmosphere: Sociable
+Expression of Affection: Loves to be pampered
+Love Style: Cautious (shy/reserved)
+Emotional Side: Honest and straightforward
+View on Love: Family-oriented
+Status: Single, no boyfriend</description>
+      <pubDate>Fri, 31 Jul 2026 07:49:45 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol28.mp3" length="3798364" type="audio/mpeg" />
+      <guid isPermaLink="false">vol28-en</guid>
+      <itunes:duration>00:09:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>A Night with Professor Nagai and His Secretary</title>
       <description>Female character:
 Name: Yuki Okada
