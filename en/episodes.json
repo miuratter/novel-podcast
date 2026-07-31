@@ -273,5 +273,16 @@
         "durationFormatted":  "00:08:11",
         "fileSizeBytes":  3486148,
         "guid":  "vol27-en"
+    },
+    {
+        "volume":  28,
+        "title":  "Above the Clouds, Until Night Deepens (Yamashiro Miki, 18, Flight Attendant, Ordinary)",
+        "description":  "Female character:\nName: Miki Yamashiro\nAge: 18\nOccupation: Flight Attendant\nHair: Black hair\nBody Type: Average\nFeatures: Droopy eyes, beautiful legs\nSpeech Style: Frequently uses polite language\nAtmosphere: Sociable\nExpression of Affection: Loves to be pampered\nLove Style: Cautious (shy/reserved)\nEmotional Side: Honest and straightforward\nView on Love: Family-oriented\nStatus: Single, no boyfriend",
+        "pubDate":  "Fri, 31 Jul 2026 07:49:45 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol28.mp3",
+        "durationSeconds":  552.490667,
+        "durationFormatted":  "00:09:12",
+        "fileSizeBytes":  3798364,
+        "guid":  "vol28-en"
     }
 ]
