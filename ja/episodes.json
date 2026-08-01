@@ -284,5 +284,16 @@
         "durationFormatted":  "00:11:04",
         "fileSizeBytes":  4473676,
         "guid":  "vol28-ja"
+    },
+    {
+        "volume":  29,
+        "title":  "花冷えの夜に（木村 奈々・23歳・教師・スレンダー）",
+        "description":  "登場女性:\n名前: 木村 奈々（きむら なな）\n年齢: 23\n職業: 教師\n髪: ショートヘア\n体型: スレンダー\n特徴: ボーイッシュ・タレ目\n話し方: スロー（ゆっくり）\n雰囲気: 天然\n愛情表現: 尽くすタイプ\n恋愛スタイル: 積極的\n感情面: 素直\n恋愛観: 結婚願望が強い\nステータス: 離婚歴有り",
+        "pubDate":  "Sat, 01 Aug 2026 04:11:53 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol29.mp3",
+        "durationSeconds":  503.168,
+        "durationFormatted":  "00:08:23",
+        "fileSizeBytes":  3356380,
+        "guid":  "vol29-ja"
     }
 ]
