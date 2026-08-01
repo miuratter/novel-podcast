@@ -284,5 +284,16 @@
         "durationFormatted":  "00:09:12",
         "fileSizeBytes":  3798364,
         "guid":  "vol28-en"
+    },
+    {
+        "volume":  29,
+        "title":  "The Night of Late Spring Chill (Nana Kimura, 23, Teacher, Slender)",
+        "description":  "Female character:\nName: Nana Kimura\nAge: 23\nOccupation: Teacher\nHair: Short hair\nBody Type: Slender\nFeatures: Boyish, droopy eyes\nSpeech: Slow-paced\nVibe: Airheaded/natural\nWay of Showing Love: Devoted type\nApproach to Romance: Proactive\nEmotional Side: Honest/straightforward\nView on Love: Strong desire for marriage\nStatus: Divorced",
+        "pubDate":  "Sat, 01 Aug 2026 04:12:07 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol29.mp3",
+        "durationSeconds":  390.613333,
+        "durationFormatted":  "00:06:30",
+        "fileSizeBytes":  2727436,
+        "guid":  "vol29-en"
     }
 ]
