@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>白衣に灯る夜（川島 美佳・29歳・女医・普通）</title>
+      <description>登場女性:
+名前: 川島 美佳（かわしま みか）
+年齢: 29
+職業: 女医
+髪: ロングヘア
+体型: 普通
+特徴: 高身長・色白
+話し方: スロー（ゆっくり）
+雰囲気: 聞き上手
+愛情表現: スキンシップ好き
+恋愛スタイル: 経験豊富
+感情面: 素直
+恋愛観: 家庭的
+ステータス: 未婚だが彼氏持ち</description>
+      <pubDate>Sun, 02 Aug 2026 07:53:10 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol30.mp3" length="3496996" type="audio/mpeg" />
+      <guid isPermaLink="false">vol30-ja</guid>
+      <itunes:duration>00:08:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>花冷えの夜に（木村 奈々・23歳・教師・スレンダー）</title>
       <description>登場女性:
 名前: 木村 奈々（きむら なな）
