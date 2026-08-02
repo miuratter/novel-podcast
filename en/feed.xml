@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Lamplight in a White Coat (Kawashima Mika, 29, Female Doctor, Ordinary)</title>
+      <description>Female character:
+Name: Mika Kawashima
+Age: 29
+Occupation: Doctor
+Hair: Long hair
+Body Type: Average
+Features: Tall, fair skin
+Speech Style: Slow and calm
+Vibe: A great listener
+Way of Showing Affection: Loves physical touch
+Dating Style: Experienced
+Emotional Side: Honest and straightforward
+Views on Love: Family-oriented
+Status: Unmarried, but has a boyfriend</description>
+      <pubDate>Sun, 02 Aug 2026 11:09:08 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol30.mp3" length="3002956" type="audio/mpeg" />
+      <guid isPermaLink="false">vol30-en</guid>
+      <itunes:duration>00:07:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Night of Late Spring Chill (Nana Kimura, 23, Teacher, Slender)</title>
       <description>Female character:
 Name: Nana Kimura
