@@ -295,5 +295,16 @@
         "durationFormatted":  "00:06:30",
         "fileSizeBytes":  2727436,
         "guid":  "vol29-en"
+    },
+    {
+        "volume":  30,
+        "title":  "Lamplight in a White Coat (Kawashima Mika, 29, Female Doctor, Ordinary)",
+        "description":  "Female character:\nName: Mika Kawashima\nAge: 29\nOccupation: Doctor\nHair: Long hair\nBody Type: Average\nFeatures: Tall, fair skin\nSpeech Style: Slow and calm\nVibe: A great listener\nWay of Showing Affection: Loves physical touch\nDating Style: Experienced\nEmotional Side: Honest and straightforward\nViews on Love: Family-oriented\nStatus: Unmarried, but has a boyfriend",
+        "pubDate":  "Sun, 02 Aug 2026 11:09:08 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol30.mp3",
+        "durationSeconds":  431.189333,
+        "durationFormatted":  "00:07:11",
+        "fileSizeBytes":  3002956,
+        "guid":  "vol30-en"
     }
 ]
