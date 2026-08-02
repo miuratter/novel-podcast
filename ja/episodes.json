@@ -295,5 +295,16 @@
         "durationFormatted":  "00:08:23",
         "fileSizeBytes":  3356380,
         "guid":  "vol29-ja"
+    },
+    {
+        "volume":  30,
+        "title":  "白衣に灯る夜（川島 美佳・29歳・女医・普通）",
+        "description":  "登場女性:\n名前: 川島 美佳（かわしま みか）\n年齢: 29\n職業: 女医\n髪: ロングヘア\n体型: 普通\n特徴: 高身長・色白\n話し方: スロー（ゆっくり）\n雰囲気: 聞き上手\n愛情表現: スキンシップ好き\n恋愛スタイル: 経験豊富\n感情面: 素直\n恋愛観: 家庭的\nステータス: 未婚だが彼氏持ち",
+        "pubDate":  "Sun, 02 Aug 2026 07:53:10 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol30.mp3",
+        "durationSeconds":  507.434667,
+        "durationFormatted":  "00:08:27",
+        "fileSizeBytes":  3496996,
+        "guid":  "vol30-ja"
     }
 ]
