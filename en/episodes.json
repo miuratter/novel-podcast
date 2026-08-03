@@ -306,5 +306,16 @@
         "durationFormatted":  "00:07:11",
         "fileSizeBytes":  3002956,
         "guid":  "vol30-en"
+    },
+    {
+        "volume":  31,
+        "title":  "The Receptionist and the Professor: A Promise on a Rainy Night (Yuka Fujii, 29, Corporate Receptionist, Ordinary)",
+        "description":  "Female character:\nName: Yuka Fujii (藤井 優花)\nAge: 29\nOccupation: Receptionist at a major corporation\nHair: Ponytail\nBody Type: Average\nFeatures: Baby face, fair skin\nSpeech Style: Often uses polite/formal language\nVibe: Airheaded/natural\nLove Language: Wants to be pampered\nRomantic Style: Passionate\nEmotional Side: Honest and straightforward\nViews on Love: Strong desire to get married\nStatus: Single, no boyfriend",
+        "pubDate":  "Mon, 03 Aug 2026 09:54:45 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol31.mp3",
+        "durationSeconds":  485.504,
+        "durationFormatted":  "00:08:05",
+        "fileSizeBytes":  3386644,
+        "guid":  "vol31-en"
     }
 ]
