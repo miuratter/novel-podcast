@@ -328,5 +328,16 @@
         "durationFormatted":  "00:09:05",
         "fileSizeBytes":  3770452,
         "guid":  "vol32-en"
+    },
+    {
+        "volume":  33,
+        "title":  "A Night at the University, the Locked Door (Ayako Uehara, 30, Police Officer, Slender)",
+        "description":  "Female character:\nName: Ayako Uehara\nAge: 30\nOccupation: Police Officer\nHair: Short hair\nBody Type: Slender\nFeatures: Petite and glamorous\nSpeech Style: Slow and calm\nVibe: Mature\nWay of Showing Love: Romantic\nLove Style: Falls in love easily\nEmotional Side: Tends to act tough\nViews on Love: Strongly wants to get married\nStatus: Single, no boyfriend",
+        "pubDate":  "Wed, 05 Aug 2026 12:16:15 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol33.mp3",
+        "durationSeconds":  499.968,
+        "durationFormatted":  "00:08:19",
+        "fileSizeBytes":  3435916,
+        "guid":  "vol33-en"
     }
 ]
