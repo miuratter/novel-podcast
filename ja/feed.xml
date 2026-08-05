@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>大学の夜、鍵のかかった扉（上原 綾子・30歳・警察官・スレンダー）</title>
+      <description>登場女性:
+名前: 上原 綾子（うえはら あやこ）
+年齢: 30
+職業: 警察官
+髪: ショートヘア
+体型: スレンダー
+特徴: 華奢・艶やか
+話し方: スロー（ゆっくり）
+雰囲気: 大人っぽい
+愛情表現: ロマンチスト
+恋愛スタイル: 恋愛体質（惚れやすい）
+感情面: 強がり
+恋愛観: 結婚願望が強い
+ステータス: 未婚で彼氏ナシ</description>
+      <pubDate>Wed, 05 Aug 2026 12:16:04 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol33.mp3" length="4076524" type="audio/mpeg" />
+      <guid isPermaLink="false">vol33-ja</guid>
+      <itunes:duration>00:10:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>霧の向こう側（斉藤 美華・29歳・CA（客室乗務員）・普通）</title>
       <description>登場女性:
 名前: 斉藤 美華（さいとう よしか）
