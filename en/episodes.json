@@ -339,5 +339,16 @@
         "durationFormatted":  "00:08:19",
         "fileSizeBytes":  3435916,
         "guid":  "vol33-en"
+    },
+    {
+        "volume":  34,
+        "title":  "Autumn on the Keys (Sasaki Miho, 20, Piano Teacher, Model Figure)",
+        "description":  "Female character:\nName: Miho Sasaki\nAge: 20\nOccupation: Piano Teacher\nHair: Long hair\nFigure: Model-like figure\nFeatures: Beautiful skin, small chest\nWay of Speaking: Fast talker\nVibe: Soothing, calming presence\nWay of Showing Love: Prefers to be pampered and taken care of\nApproach to Romance: Cautious and reserved\nEmotional Side: Has a surprising contrast to her outward personality\nRomantic Preference: Likes older men\nStatus: Single, no boyfriend",
+        "pubDate":  "Thu, 06 Aug 2026 12:38:23 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol34.mp3",
+        "durationSeconds":  465.109333,
+        "durationFormatted":  "00:07:45",
+        "fileSizeBytes":  3243916,
+        "guid":  "vol34-en"
     }
 ]
