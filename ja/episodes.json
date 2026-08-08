@@ -361,5 +361,16 @@
         "durationFormatted":  "00:08:47",
         "fileSizeBytes":  3544972,
         "guid":  "vol35-ja"
+    },
+    {
+        "volume":  36,
+        "title":  "雨上がりの研究室（藤本 梨沙・19歳・女子大生・グラマー（メリハリ））",
+        "description":  "登場女性:\n名前: 藤本 梨沙（ふじもと りさ）\n年齢: 19\n職業: 女子大生\n髪: 茶髪\n体型: グラマー（メリハリ）\n特徴: 美肌・色白\n話し方: 敬語が多い\n雰囲気: 上品\n愛情表現: 尽くすタイプ\n恋愛スタイル: 積極的\n感情面: ツンデレ\n恋愛観: おじさん好き\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Sat, 08 Aug 2026 11:23:24 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol36.mp3",
+        "durationSeconds":  521.514667,
+        "durationFormatted":  "00:08:41",
+        "fileSizeBytes":  3497836,
+        "guid":  "vol36-ja"
     }
 ]
