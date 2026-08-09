@@ -372,5 +372,16 @@
         "durationFormatted":  "00:07:38",
         "fileSizeBytes":  3196900,
         "guid":  "vol36-en"
+    },
+    {
+        "volume":  37,
+        "title":  "The Other Side of the Podium (Nakai Sae, 25, Teacher, Model Figure)",
+        "description":  "Female character:\nName: Sae Nakai\nAge: 25\nOccupation: Teacher\nHair: Black hair\nBody Type: Model-like figure\nFeatures: Tall and slender\nSpeech Style: Casual tone\nVibe: A great listener\nWay of Showing Affection: Skilled at making others feel spoiled/pampered\nDating Style: Experienced\nEmotional Side: Easily flustered/bashful\nView on Love: Romantic\nStatus: Divorced",
+        "pubDate":  "Sun, 09 Aug 2026 11:26:18 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol37.mp3",
+        "durationSeconds":  485.333333,
+        "durationFormatted":  "00:08:05",
+        "fileSizeBytes":  3375916,
+        "guid":  "vol37-en"
     }
 ]
