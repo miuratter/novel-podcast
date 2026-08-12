@@ -405,5 +405,16 @@
         "durationFormatted":  "00:08:29",
         "fileSizeBytes":  3607156,
         "guid":  "vol39-en"
+    },
+    {
+        "volume":  40,
+        "title":  "Latte After the Rain, and a Fleeting Light (Moe Kato, 28, Café Worker, Slender)",
+        "description":  "Female character:\nName: Moe Kato\nAge: 28\nOccupation: Café Staff\nHair: Long hair\nBody Type: Slender\nFeatures: Glasses, elegant and modest\nSpeech Style: Casual, friendly tone\nVibe: A great listener\nWay of Showing Affection: Skilled at making others feel comforted and cared for\nApproach to Love: Cautious and reserved\nEmotional Side: Prone to loneliness\nView on Love: Romantic at heart\nStatus: Unmarried, but currently in a relationship",
+        "pubDate":  "Wed, 12 Aug 2026 09:23:39 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol40.mp3",
+        "durationSeconds":  473.173333,
+        "durationFormatted":  "00:07:53",
+        "fileSizeBytes":  3293740,
+        "guid":  "vol40-en"
     }
 ]
