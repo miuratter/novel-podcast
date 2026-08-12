@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>雨上がりのラテと、束の間の灯（加藤 萌恵・28歳・カフェ店員・スレンダー）</title>
+      <description>登場女性:
+名前: 加藤 萌恵（かとう もえ）
+年齢: 28
+職業: カフェ店員
+髪: ロングヘア
+体型: スレンダー
+特徴: 眼鏡・清楚
+話し方: タメ口
+雰囲気: 聞き上手
+愛情表現: 甘えさせ上手
+恋愛スタイル: 慎重（奥手）
+感情面: 寂しがり屋
+恋愛観: ロマンチスト
+ステータス: 未婚だが彼氏持ち</description>
+      <pubDate>Wed, 12 Aug 2026 09:23:26 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol40.mp3" length="3815212" type="audio/mpeg" />
+      <guid isPermaLink="false">vol40-ja</guid>
+      <itunes:duration>00:09:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>雲の上の夜想曲（森川 詩織・19歳・CA（客室乗務員）・普通）</title>
       <description>登場女性:
 名前: 森川 詩織（もりかわ しおり）
