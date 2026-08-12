@@ -405,5 +405,16 @@
         "durationFormatted":  "00:09:51",
         "fileSizeBytes":  4033900,
         "guid":  "vol39-ja"
+    },
+    {
+        "volume":  40,
+        "title":  "雨上がりのラテと、束の間の灯（加藤 萌恵・28歳・カフェ店員・スレンダー）",
+        "description":  "登場女性:\n名前: 加藤 萌恵（かとう もえ）\n年齢: 28\n職業: カフェ店員\n髪: ロングヘア\n体型: スレンダー\n特徴: 眼鏡・清楚\n話し方: タメ口\n雰囲気: 聞き上手\n愛情表現: 甘えさせ上手\n恋愛スタイル: 慎重（奥手）\n感情面: 寂しがり屋\n恋愛観: ロマンチスト\nステータス: 未婚だが彼氏持ち",
+        "pubDate":  "Wed, 12 Aug 2026 09:23:26 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol40.mp3",
+        "durationSeconds":  569.386667,
+        "durationFormatted":  "00:09:29",
+        "fileSizeBytes":  3815212,
+        "guid":  "vol40-ja"
     }
 ]
