@@ -416,5 +416,16 @@
         "durationFormatted":  "00:07:53",
         "fileSizeBytes":  3293740,
         "guid":  "vol40-en"
+    },
+    {
+        "volume":  41,
+        "title":  "An Afternoon in the Dental Chair (Hasegawa Yoko, 24, Dental Hygienist, Slender)",
+        "description":  "Female character:\nName: Yoko Hasegawa\nAge: 24\nOccupation: Dental Hygienist\nHair: Brown\nBody Type: Slender\nFeatures: Stylish, Tall\nSpeech Style: Woman of few words\nAtmosphere: Serious/Diligent\nWay of Showing Affection: Skilled at making others feel spoiled\nDating Style: Experienced\nEmotional Side: Has a gap between appearance and true self\nViews on Love: Prone to cheating\nStatus: Single, no boyfriend",
+        "pubDate":  "Thu, 13 Aug 2026 13:36:45 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol41.mp3",
+        "durationSeconds":  553.514667,
+        "durationFormatted":  "00:09:13",
+        "fileSizeBytes":  3940948,
+        "guid":  "vol41-en"
     }
 ]
