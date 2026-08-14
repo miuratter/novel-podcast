@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>癒しの処方箋（山下 優奈・30歳・看護師（ナース）・普通）</title>
+      <description>登場女性:
+名前: 山下 優奈（やました ゆうな）
+年齢: 30
+職業: 看護師（ナース）
+髪: ショートヘア
+体型: 普通
+特徴: 小柄・ギャル
+話し方: タメ口
+雰囲気: 癒し系
+愛情表現: 一途
+恋愛スタイル: 駆け引き上手
+感情面: 素直
+恋愛観: 家庭的
+ステータス: 未婚で彼氏ナシ</description>
+      <pubDate>Fri, 14 Aug 2026 15:34:08 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol42.mp3" length="4245676" type="audio/mpeg" />
+      <guid isPermaLink="false">vol42-ja</guid>
+      <itunes:duration>00:10:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>歯科椅子の午後（長谷川 陽子・24歳・歯科衛生士・スレンダー）</title>
       <description>登場女性:
 名前: 長谷川 陽子（はせがわ ようこ）
