@@ -427,5 +427,16 @@
         "durationFormatted":  "00:10:46",
         "fileSizeBytes":  4435876,
         "guid":  "vol41-ja"
+    },
+    {
+        "volume":  42,
+        "title":  "癒しの処方箋（山下 優奈・30歳・看護師（ナース）・普通）",
+        "description":  "登場女性:\n名前: 山下 優奈（やました ゆうな）\n年齢: 30\n職業: 看護師（ナース）\n髪: ショートヘア\n体型: 普通\n特徴: 小柄・ギャル\n話し方: タメ口\n雰囲気: 癒し系\n愛情表現: 一途\n恋愛スタイル: 駆け引き上手\n感情面: 素直\n恋愛観: 家庭的\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Fri, 14 Aug 2026 15:34:08 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol42.mp3",
+        "durationSeconds":  633.258667,
+        "durationFormatted":  "00:10:33",
+        "fileSizeBytes":  4245676,
+        "guid":  "vol42-ja"
     }
 ]
