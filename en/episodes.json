@@ -427,5 +427,16 @@
         "durationFormatted":  "00:09:13",
         "fileSizeBytes":  3940948,
         "guid":  "vol41-en"
+    },
+    {
+        "volume":  42,
+        "title":  "Healing Prescription (Yuna Yamashita, 30, Nurse, Average)",
+        "description":  "Female character:\nName: Yuna Yamashita\nAge: 30\nOccupation: Nurse\nHair: Short hair\nBody Type: Average\nFeatures: Petite, Gyaru style\nSpeech Style: Casual (informal speech)\nVibe: Soothing/healing presence\nWay of Showing Love: Devoted to one person\nLove Style: Skilled at playing hard to get\nEmotional Side: Honest and straightforward\nView on Love: Family-oriented\nStatus: Single, no boyfriend",
+        "pubDate":  "Fri, 14 Aug 2026 15:34:19 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol42.mp3",
+        "durationSeconds":  550.357333,
+        "durationFormatted":  "00:09:10",
+        "fileSizeBytes":  3866116,
+        "guid":  "vol42-en"
     }
 ]
