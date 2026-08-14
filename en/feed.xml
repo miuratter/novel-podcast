@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Healing Prescription (Yuna Yamashita, 30, Nurse, Average)</title>
+      <description>Female character:
+Name: Yuna Yamashita
+Age: 30
+Occupation: Nurse
+Hair: Short hair
+Body Type: Average
+Features: Petite, Gyaru style
+Speech Style: Casual (informal speech)
+Vibe: Soothing/healing presence
+Way of Showing Love: Devoted to one person
+Love Style: Skilled at playing hard to get
+Emotional Side: Honest and straightforward
+View on Love: Family-oriented
+Status: Single, no boyfriend</description>
+      <pubDate>Fri, 14 Aug 2026 15:34:19 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol42.mp3" length="3866116" type="audio/mpeg" />
+      <guid isPermaLink="false">vol42-en</guid>
+      <itunes:duration>00:09:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>An Afternoon in the Dental Chair (Hasegawa Yoko, 24, Dental Hygienist, Slender)</title>
       <description>Female character:
 Name: Yoko Hasegawa
