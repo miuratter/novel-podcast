@@ -438,5 +438,16 @@
         "durationFormatted":  "00:10:33",
         "fileSizeBytes":  4245676,
         "guid":  "vol42-ja"
+    },
+    {
+        "volume":  43,
+        "title":  "雲の上の夜、束の間の恋（平野 美千・29歳・CA（客室乗務員）・スレンダー）",
+        "description":  "登場女性:\n名前: 平野 美千（ひらの みち）\n年齢: 29\n職業: CA（客室乗務員）\n髪: ロングヘア\n体型: スレンダー\n特徴: ボーイッシュ・美乳\n話し方: 敬語が多い\n雰囲気: 色気がある\n愛情表現: ロマンチスト\n恋愛スタイル: 情熱的\n感情面: 寂しがり屋\n恋愛観: おじさん好き\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Sat, 15 Aug 2026 08:15:11 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol43.mp3",
+        "durationSeconds":  459.776,
+        "durationFormatted":  "00:07:39",
+        "fileSizeBytes":  3096988,
+        "guid":  "vol43-ja"
     }
 ]
