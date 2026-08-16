@@ -449,5 +449,16 @@
         "durationFormatted":  "00:07:39",
         "fileSizeBytes":  3096988,
         "guid":  "vol43-ja"
+    },
+    {
+        "volume":  44,
+        "title":  "花冷えの夜に（林 美咲・19歳・女子大生・普通）",
+        "description":  "登場女性:\n名前: 林 美咲（はやし みさき）\n年齢: 19\n職業: 女子大生\n髪: ロングヘア\n体型: 普通\n特徴: 色白・お洒落\n話し方: スロー（ゆっくり）\n雰囲気: 子供っぽい\n愛情表現: 甘えさせ上手\n恋愛スタイル: 積極的\n感情面: ツンデレ\n恋愛観: 浮気しやすい\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Sun, 16 Aug 2026 08:19:43 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol44.mp3",
+        "durationSeconds":  533.930667,
+        "durationFormatted":  "00:08:53",
+        "fileSizeBytes":  3587740,
+        "guid":  "vol44-ja"
     }
 ]
