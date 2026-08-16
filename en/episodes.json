@@ -449,5 +449,16 @@
         "durationFormatted":  "00:06:15",
         "fileSizeBytes":  2570908,
         "guid":  "vol43-en"
+    },
+    {
+        "volume":  44,
+        "title":  "A Night of Late Spring Chill (Hayashi Misaki, 19, Female College Student, Ordinary)",
+        "description":  "Female character:\nName: Misaki Hayashi\nAge: 19\nOccupation: College Student\nHair: Long Hair\nBody Type: Average\nFeatures: Fair-skinned, Fashionable\nSpeech Style: Slow-paced\nVibe: Childlike\nWay of Showing Affection: Great at being pampered/spoiling others\nLove Style: Proactive\nEmotional Type: Tsundere\nView on Love: Prone to cheating\nStatus: Unmarried, no boyfriend",
+        "pubDate":  "Sun, 16 Aug 2026 08:19:57 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol44.mp3",
+        "durationSeconds":  478.08,
+        "durationFormatted":  "00:07:58",
+        "fileSizeBytes":  3275332,
+        "guid":  "vol44-en"
     }
 ]
