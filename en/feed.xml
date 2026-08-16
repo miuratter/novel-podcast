@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Night of Late Spring Chill (Hayashi Misaki, 19, Female College Student, Ordinary)</title>
+      <description>Female character:
+Name: Misaki Hayashi
+Age: 19
+Occupation: College Student
+Hair: Long Hair
+Body Type: Average
+Features: Fair-skinned, Fashionable
+Speech Style: Slow-paced
+Vibe: Childlike
+Way of Showing Affection: Great at being pampered/spoiling others
+Love Style: Proactive
+Emotional Type: Tsundere
+View on Love: Prone to cheating
+Status: Unmarried, no boyfriend</description>
+      <pubDate>Sun, 16 Aug 2026 08:19:57 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol44.mp3" length="3275332" type="audio/mpeg" />
+      <guid isPermaLink="false">vol44-en</guid>
+      <itunes:duration>00:07:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>A Night Above the Clouds, A Fleeting Romance (Hirano Michi, 29, Flight Attendant, Slender)</title>
       <description>Female character:
 Name: Michi Hirano
