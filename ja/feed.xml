@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>花冷えの夜に（林 美咲・19歳・女子大生・普通）</title>
+      <description>登場女性:
+名前: 林 美咲（はやし みさき）
+年齢: 19
+職業: 女子大生
+髪: ロングヘア
+体型: 普通
+特徴: 色白・お洒落
+話し方: スロー（ゆっくり）
+雰囲気: 子供っぽい
+愛情表現: 甘えさせ上手
+恋愛スタイル: 積極的
+感情面: ツンデレ
+恋愛観: 浮気しやすい
+ステータス: 未婚で彼氏ナシ</description>
+      <pubDate>Sun, 16 Aug 2026 08:19:43 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol44.mp3" length="3587740" type="audio/mpeg" />
+      <guid isPermaLink="false">vol44-ja</guid>
+      <itunes:duration>00:08:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>雲の上の夜、束の間の恋（平野 美千・29歳・CA（客室乗務員）・スレンダー）</title>
       <description>登場女性:
 名前: 平野 美千（ひらの みち）
