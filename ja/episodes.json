@@ -460,5 +460,16 @@
         "durationFormatted":  "00:08:53",
         "fileSizeBytes":  3587740,
         "guid":  "vol44-ja"
+    },
+    {
+        "volume":  45,
+        "title":  "静かなる夜、教授と（高城 美咲・22歳・モデル・普通）",
+        "description":  "登場女性:\n名前: 高城 美咲（たかぎょう みさき）\n年齢: 22\n職業: モデル\n髪: ショートヘア\n体型: 普通\n特徴: 高身長・ノーメイク\n話し方: 敬語が多い\n雰囲気: 真面目\n愛情表現: スキンシップ好き\n恋愛スタイル: 積極的\n感情面: 寂しがり屋\n恋愛観: 家庭的\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Mon, 17 Aug 2026 03:22:33 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol45.mp3",
+        "durationSeconds":  522.282667,
+        "durationFormatted":  "00:08:42",
+        "fileSizeBytes":  3562156,
+        "guid":  "vol45-ja"
     }
 ]
