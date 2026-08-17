@@ -460,5 +460,16 @@
         "durationFormatted":  "00:07:58",
         "fileSizeBytes":  3275332,
         "guid":  "vol44-en"
+    },
+    {
+        "volume":  45,
+        "title":  "A Quiet Night with the Professor (Misaki Takagi, 22, Model, Ordinary)",
+        "description":  "Female character:\nName: Misaki Takagyo\nAge: 22\nOccupation: Model\nHair: Short hair\nBody Type: Average\nFeatures: Tall, no makeup\nSpeech Style: Speaks politely, often using formal language\nVibe: Serious/earnest\nWay of Showing Affection: Loves physical touch\nLove Style: Proactive\nEmotional Side: Gets lonely easily\nView on Love: Family-oriented\nStatus: Single, no boyfriend",
+        "pubDate":  "Mon, 17 Aug 2026 03:22:52 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol45.mp3",
+        "durationSeconds":  431.616,
+        "durationFormatted":  "00:07:11",
+        "fileSizeBytes":  3037252,
+        "guid":  "vol45-en"
     }
 ]
