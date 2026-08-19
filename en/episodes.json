@@ -482,5 +482,16 @@
         "durationFormatted":  "00:08:36",
         "fileSizeBytes":  3577516,
         "guid":  "vol47-en"
+    },
+    {
+        "volume":  48,
+        "title":  "Night Watch Intersection (Fujii Sari, 18, Police Officer, Ordinary)",
+        "description":  "Female character:\nName: Sari Fujii\nAge: 18\nOccupation: Police Officer\nHair: Twin tails\nBody Type: Average\nFeatures: Boyish, No makeup\nSpeech Style: Fast talker\nVibe: Elegant\nAffection Style: Loves physical touch\nRomance Style: Skilled at playing games in love\nEmotional Side: Pretends to be tough\nLove Views: Prone to cheating\nStatus: Unmarried but has a boyfriend",
+        "pubDate":  "Wed, 19 Aug 2026 11:18:32 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol48.mp3",
+        "durationSeconds":  536.746667,
+        "durationFormatted":  "00:08:56",
+        "fileSizeBytes":  3755932,
+        "guid":  "vol48-en"
     }
 ]
