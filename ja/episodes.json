@@ -482,5 +482,16 @@
         "durationFormatted":  "00:10:38",
         "fileSizeBytes":  4319572,
         "guid":  "vol47-ja"
+    },
+    {
+        "volume":  48,
+        "title":  "夜警の交差点（藤井 紗理・18歳・警察官・普通）",
+        "description":  "登場女性:\n名前: 藤井 紗理（ふじい さり）\n年齢: 18\n職業: 警察官\n髪: ツインテール\n体型: 普通\n特徴: ボーイッシュ・ノーメイク\n話し方: 早口\n雰囲気: 上品\n愛情表現: スキンシップ好き\n恋愛スタイル: 駆け引き上手\n感情面: 強がり\n恋愛観: 浮気しやすい\nステータス: 未婚だが彼氏持ち",
+        "pubDate":  "Wed, 19 Aug 2026 11:15:35 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol48.mp3",
+        "durationSeconds":  637.909333,
+        "durationFormatted":  "00:10:37",
+        "fileSizeBytes":  4338316,
+        "guid":  "vol48-ja"
     }
 ]
