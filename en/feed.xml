@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>The Sound of the EKG (Iwai Miharu, 21, Nurse, Glamorous (Well-Proportioned))</title>
+      <description>Female character:
+Name: Miharu Iwai
+Age: 21
+Occupation: Nurse
+Hair: Long hair
+Body Type: Voluptuous (curvy figure)
+Traits: Virgin, fashionable
+Speech Style: Mostly polite/formal language
+Atmosphere: Gentle and kind
+Love Language: Wants to be pampered/doted on
+Romantic Style: Falls in love easily
+Emotional Type: Tsundere
+Views on Love: Family-oriented
+Status: Unmarried but has a boyfriend</description>
+      <pubDate>Fri, 21 Aug 2026 07:57:07 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol50.mp3" length="3702820" type="audio/mpeg" />
+      <guid isPermaLink="false">vol50-en</guid>
+      <itunes:duration>00:08:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Night Clinic (Ayaka Shiraishi, 30, Doctor, Model Figure)</title>
       <description>Female character:
 Name: Ayaka Shiraishi
