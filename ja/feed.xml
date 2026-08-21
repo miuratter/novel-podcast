@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>心電図の音（岩井 美晴・21歳・看護師（ナース）・グラマー（メリハリ））</title>
+      <description>登場女性:
+名前: 岩井 美晴（いわい みはる）
+年齢: 21
+職業: 看護師（ナース）
+髪: ロングヘア
+体型: グラマー（メリハリ）
+特徴: 処女・お洒落
+話し方: 敬語が多い
+雰囲気: 優しい
+愛情表現: 尽くされたいタイプ
+恋愛スタイル: 恋愛体質（惚れやすい）
+感情面: ツンデレ
+恋愛観: 家庭的
+ステータス: 未婚だが彼氏持ち</description>
+      <pubDate>Fri, 21 Aug 2026 07:56:50 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol50.mp3" length="4237468" type="audio/mpeg" />
+      <guid isPermaLink="false">vol50-ja</guid>
+      <itunes:duration>00:10:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>夜間の診察室（白石 彩花・30歳・女医・モデル体型）</title>
       <description>登場女性:
 名前: 白石 彩花（しらいし あやか）
