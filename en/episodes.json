@@ -504,5 +504,16 @@
         "durationFormatted":  "00:07:45",
         "fileSizeBytes":  3175828,
         "guid":  "vol49-en"
+    },
+    {
+        "volume":  50,
+        "title":  "The Sound of the EKG (Iwai Miharu, 21, Nurse, Glamorous (Well-Proportioned))",
+        "description":  "Female character:\nName: Miharu Iwai\nAge: 21\nOccupation: Nurse\nHair: Long hair\nBody Type: Voluptuous (curvy figure)\nTraits: Virgin, fashionable\nSpeech Style: Mostly polite/formal language\nAtmosphere: Gentle and kind\nLove Language: Wants to be pampered/doted on\nRomantic Style: Falls in love easily\nEmotional Type: Tsundere\nViews on Love: Family-oriented\nStatus: Unmarried but has a boyfriend",
+        "pubDate":  "Fri, 21 Aug 2026 07:57:07 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol50.mp3",
+        "durationSeconds":  525.781333,
+        "durationFormatted":  "00:08:45",
+        "fileSizeBytes":  3702820,
+        "guid":  "vol50-en"
     }
 ]
