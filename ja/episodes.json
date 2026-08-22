@@ -515,5 +515,16 @@
         "durationFormatted":  "00:10:36",
         "fileSizeBytes":  4237468,
         "guid":  "vol50-ja"
+    },
+    {
+        "volume":  51,
+        "title":  "夜想曲、二人分のグラス（中村 紗奈・24歳・地下アイドル・スレンダー）",
+        "description":  "登場女性:\n名前: 中村 紗奈（なかむら さな）\n年齢: 24\n職業: 地下アイドル\n髪: 黒髪\n体型: スレンダー\n特徴: ボーイッシュ・ノーメイク\n話し方: スロー（ゆっくり）\n雰囲気: 社交的\n愛情表現: 尽くすタイプ\n恋愛スタイル: 情熱的\n感情面: 強がり\n恋愛観: おじさん好き\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Sat, 22 Aug 2026 06:27:02 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol51.mp3",
+        "durationSeconds":  535.424,
+        "durationFormatted":  "00:08:55",
+        "fileSizeBytes":  3592660,
+        "guid":  "vol51-ja"
     }
 ]
