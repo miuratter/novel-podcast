@@ -515,5 +515,16 @@
         "durationFormatted":  "00:08:45",
         "fileSizeBytes":  3702820,
         "guid":  "vol50-en"
+    },
+    {
+        "volume":  51,
+        "title":  "Nocturne, Two Glasses (Sana Nakamura, 24, Underground Idol, Slender)",
+        "description":  "Female character:\nName: Sana Nakamura\nAge: 24\nOccupation: Underground Idol\nHair: Black hair\nBuild: Slender\nFeatures: Boyish, No makeup\nSpeech: Slow-paced\nVibe: Sociable\nWay of Showing Love: Devoted type\nLove Style: Passionate\nEmotional Side: Puts up a tough front\nRomantic Preference: Likes older men\nStatus: Single, no boyfriend",
+        "pubDate":  "Sat, 22 Aug 2026 06:27:15 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol51.mp3",
+        "durationSeconds":  450.688,
+        "durationFormatted":  "00:07:30",
+        "fileSizeBytes":  3115012,
+        "guid":  "vol51-en"
     }
 ]
