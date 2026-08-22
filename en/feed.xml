@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Nocturne, Two Glasses (Sana Nakamura, 24, Underground Idol, Slender)</title>
+      <description>Female character:
+Name: Sana Nakamura
+Age: 24
+Occupation: Underground Idol
+Hair: Black hair
+Build: Slender
+Features: Boyish, No makeup
+Speech: Slow-paced
+Vibe: Sociable
+Way of Showing Love: Devoted type
+Love Style: Passionate
+Emotional Side: Puts up a tough front
+Romantic Preference: Likes older men
+Status: Single, no boyfriend</description>
+      <pubDate>Sat, 22 Aug 2026 06:27:15 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol51.mp3" length="3115012" type="audio/mpeg" />
+      <guid isPermaLink="false">vol51-en</guid>
+      <itunes:duration>00:07:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Sound of the EKG (Iwai Miharu, 21, Nurse, Glamorous (Well-Proportioned))</title>
       <description>Female character:
 Name: Miharu Iwai
