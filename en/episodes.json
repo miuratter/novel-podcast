@@ -526,5 +526,16 @@
         "durationFormatted":  "00:07:30",
         "fileSizeBytes":  3115012,
         "guid":  "vol51-en"
+    },
+    {
+        "volume":  52,
+        "title":  "Night Reverie Costume (Misa Saito, 21, Cosplayer, Slender)",
+        "description":  "Female character:\nName: Misa Saito (斉藤 美沙)\nAge: 21\nOccupation: Cosplayer\nHair: Long hair\nBody Type: Slender\nTraits: Boyish, petite\nSpeech Style: Few words\nAtmosphere: Gentle\nWay of Showing Affection: Great at spoiling others\nLove Style: Experienced\nEmotional Side: Jealous\nLove Values: Prone to cheating\nStatus: Unmarried but has a boyfriend",
+        "pubDate":  "Sun, 23 Aug 2026 11:13:23 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol52.mp3",
+        "durationSeconds":  459.264,
+        "durationFormatted":  "00:07:39",
+        "fileSizeBytes":  3169588,
+        "guid":  "vol52-en"
     }
 ]
