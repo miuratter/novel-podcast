@@ -537,5 +537,16 @@
         "durationFormatted":  "00:07:39",
         "fileSizeBytes":  3169588,
         "guid":  "vol52-en"
+    },
+    {
+        "volume":  53,
+        "title":  "Night Above the Clouds (Kinoshita Yuka, 29, Flight Attendant, Average)",
+        "description":  "Female character:\nName: Yuka Kinoshita\nAge: 29\nOccupation: Flight Attendant\nHair: Ponytail\nBody Type: Average\nFeatures: Glossy, beautiful legs\nSpeech Style: Polite/formal\nVibe: Soothing, healing presence\nWay of Showing Love: Devoted, dedicated type\nDating Style: Experienced\nEmotional Side: Easily flustered/shy\nLove Views: Prone to cheating\nStatus: Single, no boyfriend",
+        "pubDate":  "Mon, 24 Aug 2026 04:03:10 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol53.mp3",
+        "durationSeconds":  478.634667,
+        "durationFormatted":  "00:07:58",
+        "fileSizeBytes":  3350788,
+        "guid":  "vol53-en"
     }
 ]
