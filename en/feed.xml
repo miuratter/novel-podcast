@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Night Above the Clouds (Kinoshita Yuka, 29, Flight Attendant, Average)</title>
+      <description>Female character:
+Name: Yuka Kinoshita
+Age: 29
+Occupation: Flight Attendant
+Hair: Ponytail
+Body Type: Average
+Features: Glossy, beautiful legs
+Speech Style: Polite/formal
+Vibe: Soothing, healing presence
+Way of Showing Love: Devoted, dedicated type
+Dating Style: Experienced
+Emotional Side: Easily flustered/shy
+Love Views: Prone to cheating
+Status: Single, no boyfriend</description>
+      <pubDate>Mon, 24 Aug 2026 04:03:10 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol53.mp3" length="3350788" type="audio/mpeg" />
+      <guid isPermaLink="false">vol53-en</guid>
+      <itunes:duration>00:07:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Night Reverie Costume (Misa Saito, 21, Cosplayer, Slender)</title>
       <description>Female character:
 Name: Misa Saito (斉藤 美沙)
