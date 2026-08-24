@@ -537,5 +537,16 @@
         "durationFormatted":  "00:08:40",
         "fileSizeBytes":  3435484,
         "guid":  "vol52-ja"
+    },
+    {
+        "volume":  53,
+        "title":  "雲の上の夜（木下 優花・29歳・CA（客室乗務員）・普通）",
+        "description":  "登場女性:\n名前: 木下 優花（きのした ゆうか）\n年齢: 29\n職業: CA（客室乗務員）\n髪: ポニーテール\n体型: 普通\n特徴: 艶やか・美脚\n話し方: 敬語が多い\n雰囲気: 癒し系\n愛情表現: 尽くすタイプ\n恋愛スタイル: 経験豊富\n感情面: 照れ屋\n恋愛観: 浮気しやすい\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Mon, 24 Aug 2026 04:02:58 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol53.mp3",
+        "durationSeconds":  586.752,
+        "durationFormatted":  "00:09:46",
+        "fileSizeBytes":  3897748,
+        "guid":  "vol53-ja"
     }
 ]
