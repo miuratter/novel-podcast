@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>The Night Lecture Room (Fujita Michiko, 25, Announcer, Ordinary)</title>
+      <description>Female character:
+Name: Michiko Fujita
+Age: 25
+Occupation: Announcer
+Hair: Short hair
+Body Type: Average
+Traits: Glossy/Glamorous, Stylish
+Speech Style: Often speaks politely (keigo)
+Vibe: Gentle
+Way of Showing Affection: Skilled at being affectionate/spoiling her partner
+Love Style: Passionate
+Emotional Side: Tends to act tough
+Love Values: Prone to cheating
+Status: Unmarried, no boyfriend</description>
+      <pubDate>Tue, 25 Aug 2026 07:33:06 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol54.mp3" length="3609556" type="audio/mpeg" />
+      <guid isPermaLink="false">vol54-en</guid>
+      <itunes:duration>00:08:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Night Above the Clouds (Kinoshita Yuka, 29, Flight Attendant, Average)</title>
       <description>Female character:
 Name: Yuka Kinoshita
