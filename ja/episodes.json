@@ -548,5 +548,16 @@
         "durationFormatted":  "00:09:46",
         "fileSizeBytes":  3897748,
         "guid":  "vol53-ja"
+    },
+    {
+        "volume":  54,
+        "title":  "夜の講義室（藤田 美智子・25歳・アナウンサー・普通）",
+        "description":  "登場女性:\n名前: 藤田 美智子（ふだ みちこ）\n年齢: 25\n職業: アナウンサー\n髪: ショートヘア\n体型: 普通\n特徴: 艶やか・お洒落\n話し方: 敬語が多い\n雰囲気: 優しい\n愛情表現: 甘えさせ上手\n恋愛スタイル: 情熱的\n感情面: 強がり\n恋愛観: 浮気しやすい\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Tue, 25 Aug 2026 07:32:54 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol54.mp3",
+        "durationSeconds":  633.984,
+        "durationFormatted":  "00:10:33",
+        "fileSizeBytes":  4265308,
+        "guid":  "vol54-ja"
     }
 ]
