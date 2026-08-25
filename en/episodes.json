@@ -548,5 +548,16 @@
         "durationFormatted":  "00:07:58",
         "fileSizeBytes":  3350788,
         "guid":  "vol53-en"
+    },
+    {
+        "volume":  54,
+        "title":  "The Night Lecture Room (Fujita Michiko, 25, Announcer, Ordinary)",
+        "description":  "Female character:\nName: Michiko Fujita\nAge: 25\nOccupation: Announcer\nHair: Short hair\nBody Type: Average\nTraits: Glossy/Glamorous, Stylish\nSpeech Style: Often speaks politely (keigo)\nVibe: Gentle\nWay of Showing Affection: Skilled at being affectionate/spoiling her partner\nLove Style: Passionate\nEmotional Side: Tends to act tough\nLove Values: Prone to cheating\nStatus: Unmarried, no boyfriend",
+        "pubDate":  "Tue, 25 Aug 2026 07:33:06 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol54.mp3",
+        "durationSeconds":  517.76,
+        "durationFormatted":  "00:08:37",
+        "fileSizeBytes":  3609556,
+        "guid":  "vol54-en"
     }
 ]
