@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>夜の講義室（藤田 美智子・25歳・アナウンサー・普通）</title>
+      <description>登場女性:
+名前: 藤田 美智子（ふだ みちこ）
+年齢: 25
+職業: アナウンサー
+髪: ショートヘア
+体型: 普通
+特徴: 艶やか・お洒落
+話し方: 敬語が多い
+雰囲気: 優しい
+愛情表現: 甘えさせ上手
+恋愛スタイル: 情熱的
+感情面: 強がり
+恋愛観: 浮気しやすい
+ステータス: 未婚で彼氏ナシ</description>
+      <pubDate>Tue, 25 Aug 2026 07:32:54 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol54.mp3" length="4265308" type="audio/mpeg" />
+      <guid isPermaLink="false">vol54-ja</guid>
+      <itunes:duration>00:10:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>雲の上の夜（木下 優花・29歳・CA（客室乗務員）・普通）</title>
       <description>登場女性:
 名前: 木下 優花（きのした ゆうか）
