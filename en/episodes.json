@@ -570,5 +570,16 @@
         "durationFormatted":  "00:09:17",
         "fileSizeBytes":  3897124,
         "guid":  "vol55-en"
+    },
+    {
+        "volume":  56,
+        "title":  "Light in the Stacks (Murata Yuko, 29, Librarian, Slender)",
+        "description":  "Female character:\nName: Yuko Murata\nAge: 29\nOccupation: Librarian\nHair: Short hair\nBody Type: Slender\nFeatures: No makeup, small chest\nSpeech Style: Casual, informal tone\nAtmosphere: Gentle\nWay of Expressing Love: Romantic\nLove Style: Skilled at playing hard to get\nEmotional Side: Prone to loneliness\nLove Views: Prone to cheating\nStatus: Single, no boyfriend",
+        "pubDate":  "Thu, 27 Aug 2026 06:27:31 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol56.mp3",
+        "durationSeconds":  464.597333,
+        "durationFormatted":  "00:07:44",
+        "fileSizeBytes":  3190468,
+        "guid":  "vol56-en"
     }
 ]
