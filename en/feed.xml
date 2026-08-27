@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Light in the Stacks (Murata Yuko, 29, Librarian, Slender)</title>
+      <description>Female character:
+Name: Yuko Murata
+Age: 29
+Occupation: Librarian
+Hair: Short hair
+Body Type: Slender
+Features: No makeup, small chest
+Speech Style: Casual, informal tone
+Atmosphere: Gentle
+Way of Expressing Love: Romantic
+Love Style: Skilled at playing hard to get
+Emotional Side: Prone to loneliness
+Love Views: Prone to cheating
+Status: Single, no boyfriend</description>
+      <pubDate>Thu, 27 Aug 2026 06:27:31 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol56.mp3" length="3190468" type="audio/mpeg" />
+      <guid isPermaLink="false">vol56-en</guid>
+      <itunes:duration>00:07:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Night Special Feature (Kiriyama Yoko, 26, Announcer, Slender)</title>
       <description>Female character:
 Name: Yoko Kiriyama
