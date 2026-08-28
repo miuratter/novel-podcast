@@ -581,5 +581,16 @@
         "durationFormatted":  "00:07:44",
         "fileSizeBytes":  3190468,
         "guid":  "vol56-en"
+    },
+    {
+        "volume":  57,
+        "title":  "A Bet at the End of Spring (Miwa Inoue, 20, Job Seeker, Ordinary)",
+        "description":  "Female character:\nName: Miwa Inoue\nAge: 20\nOccupation: Job Hunter\nHair: Black hair\nBody Type: Average\nFeatures: Fair-skinned, boyish\nSpeech Style: Casual (uses informal speech)\nVibe: Healing/soothing presence\nWay of Showing Affection: Spoiled/clingy\nDating Style: Experienced\nEmotional Side: Tsundere\nView on Love: Romantic\nStatus: Single, no boyfriend",
+        "pubDate":  "Fri, 28 Aug 2026 13:05:24 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol57.mp3",
+        "durationSeconds":  518.442667,
+        "durationFormatted":  "00:08:38",
+        "fileSizeBytes":  3612172,
+        "guid":  "vol57-en"
     }
 ]
