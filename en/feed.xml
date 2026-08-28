@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Bet at the End of Spring (Miwa Inoue, 20, Job Seeker, Ordinary)</title>
+      <description>Female character:
+Name: Miwa Inoue
+Age: 20
+Occupation: Job Hunter
+Hair: Black hair
+Body Type: Average
+Features: Fair-skinned, boyish
+Speech Style: Casual (uses informal speech)
+Vibe: Healing/soothing presence
+Way of Showing Affection: Spoiled/clingy
+Dating Style: Experienced
+Emotional Side: Tsundere
+View on Love: Romantic
+Status: Single, no boyfriend</description>
+      <pubDate>Fri, 28 Aug 2026 13:05:24 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol57.mp3" length="3612172" type="audio/mpeg" />
+      <guid isPermaLink="false">vol57-en</guid>
+      <itunes:duration>00:08:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Light in the Stacks (Murata Yuko, 29, Librarian, Slender)</title>
       <description>Female character:
 Name: Yuko Murata
