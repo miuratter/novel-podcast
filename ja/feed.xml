@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>春の終わりの、賭け（井上 美和・20歳・就活者・普通）</title>
+      <description>登場女性:
+名前: 井上 美和（いのうえ みわ）
+年齢: 20
+職業: 就活者
+髪: 黒髪
+体型: 普通
+特徴: 色白・ボーイッシュ
+話し方: タメ口
+雰囲気: 癒し系
+愛情表現: 甘えん坊
+恋愛スタイル: 経験豊富
+感情面: ツンデレ
+恋愛観: ロマンチスト
+ステータス: 未婚で彼氏ナシ</description>
+      <pubDate>Fri, 28 Aug 2026 13:05:10 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol57.mp3" length="4391452" type="audio/mpeg" />
+      <guid isPermaLink="false">vol57-ja</guid>
+      <itunes:duration>00:11:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>書架の灯（村田 優子・29歳・図書館員・スレンダー）</title>
       <description>登場女性:
 名前: 村田 優子（むらた ゆうこ）
