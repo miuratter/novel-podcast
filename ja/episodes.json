@@ -603,5 +603,16 @@
         "durationFormatted":  "00:08:20",
         "fileSizeBytes":  3364300,
         "guid":  "vol58-ja"
+    },
+    {
+        "volume":  59,
+        "title":  "静かな熱（佐野 美恵・24歳・パーソナルトレーナー・モデル体型）",
+        "description":  "登場女性:\n名前: 佐野 美恵（さの みえ）\n年齢: 24\n職業: パーソナルトレーナー\n髪: 黒髪\n体型: モデル体型\n特徴: 高身長・ボーイッシュ\n話し方: 言葉少ない\n雰囲気: 大人っぽい\n愛情表現: 甘えん坊\n恋愛スタイル: 慎重（奥手）\n感情面: ツンデレ\n恋愛観: 結婚願望が強い\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Sun, 30 Aug 2026 09:39:39 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol59.mp3",
+        "durationSeconds":  524.373333,
+        "durationFormatted":  "00:08:44",
+        "fileSizeBytes":  3491716,
+        "guid":  "vol59-ja"
     }
 ]
