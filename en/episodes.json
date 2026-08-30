@@ -603,5 +603,16 @@
         "durationFormatted":  "00:06:58",
         "fileSizeBytes":  2902780,
         "guid":  "vol58-en"
+    },
+    {
+        "volume":  59,
+        "title":  "A Quiet Heat (Sano Mie, 24, Personal Trainer, Model Figure)",
+        "description":  "Female character:\nName: Mie Sano\nAge: 24\nOccupation: Personal Trainer\nHair: Black hair\nBody Type: Model figure\nFeatures: Tall, boyish\nSpeech Style: Woman of few words\nVibe: Mature\nAffection Style: Secretly clingy\nRomance Style: Cautious (shy when it comes to love)\nEmotional Type: Tsundere\nViews on Love: Strongly wants to get married\nStatus: Single, no boyfriend",
+        "pubDate":  "Sun, 30 Aug 2026 09:39:51 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol59.mp3",
+        "durationSeconds":  471.552,
+        "durationFormatted":  "00:07:51",
+        "fileSizeBytes":  3304996,
+        "guid":  "vol59-en"
     }
 ]
