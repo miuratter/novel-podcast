@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>雨上がりの珈琲店（山田 美緒・27歳・カフェ店員・グラマー（メリハリ））</title>
+      <description>登場女性:
+名前: 山田 美緒（やまだ よしお）
+年齢: 27
+職業: カフェ店員
+髪: 黒髪
+体型: グラマー（メリハリ）
+特徴: 色白・華奢
+話し方: スロー（ゆっくり）
+雰囲気: 大人っぽい
+愛情表現: 甘えさせ上手
+恋愛スタイル: 経験豊富
+感情面: ツンデレ
+恋愛観: おじさん好き
+ステータス: 離婚歴有り</description>
+      <pubDate>Tue, 01 Sep 2026 05:37:36 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol61.mp3" length="3451612" type="audio/mpeg" />
+      <guid isPermaLink="false">vol61-ja</guid>
+      <itunes:duration>00:08:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>鏡越しの夜（黒川 美月・27歳・美容師・スレンダー）</title>
       <description>登場女性:
 名前: 黒川 美月（くろかわ みつき）
