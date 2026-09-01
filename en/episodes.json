@@ -625,5 +625,16 @@
         "durationFormatted":  "00:09:59",
         "fileSizeBytes":  4190260,
         "guid":  "vol60-en"
+    },
+    {
+        "volume":  61,
+        "title":  "The Café After the Rain (Mio Yamada, 27, café clerk, glamorous with striking curves)",
+        "description":  "Female character:\nName: Yoshio Yamada\nAge: 27\nOccupation: Café Staff\nHair: Black\nBody Type: Curvy (Hourglass Figure)\nFeatures: Fair-skinned, Slender\nSpeech Style: Slow, Calm\nAtmosphere: Mature\nAffection Style: Great at Pampering Others\nRomantic Style: Experienced\nEmotional Type: Tsundere\nRomantic Preference: Likes Older Men\nStatus: Divorced",
+        "pubDate":  "Tue, 01 Sep 2026 05:37:48 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol61.mp3",
+        "durationSeconds":  427.946667,
+        "durationFormatted":  "00:07:07",
+        "fileSizeBytes":  2923348,
+        "guid":  "vol61-en"
     }
 ]
