@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Night to Comfort Loneliness (Makoto Ono, 22, Piano Teacher, Average)</title>
+      <description>Female character:
+Name: Ono Makoto
+Age: 22
+Occupation: Piano Teacher
+Hair: Long hair
+Body Type: Average
+Features: Boyish yet busty
+Speech Style: Woman of few words
+Atmosphere: Mature
+Affection Style: Sweet and clingy
+Love Style: Falls in love easily
+Emotional Side: Prone to loneliness
+Views on Love: Family-oriented
+Status: Unmarried, but has a boyfriend</description>
+      <pubDate>Wed, 02 Sep 2026 07:03:23 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol62.mp3" length="3295708" type="audio/mpeg" />
+      <guid isPermaLink="false">vol62-en</guid>
+      <itunes:duration>00:07:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Café After the Rain (Mio Yamada, 27, café clerk, glamorous with striking curves)</title>
       <description>Female character:
 Name: Yoshio Yamada
