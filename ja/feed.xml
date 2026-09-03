@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>講義室の外で（中島 美鈴・22歳・秘書・普通）</title>
+      <description>登場女性:
+名前: 中島 美鈴（なかじま みすず）
+年齢: 22
+職業: 秘書
+髪: ロングヘア
+体型: 普通
+特徴: お洒落・艶やか
+話し方: 早口
+雰囲気: 子供っぽい
+愛情表現: 尽くすタイプ
+恋愛スタイル: 積極的
+感情面: 嫉妬深い
+恋愛観: ロマンチスト
+ステータス: 未婚で彼氏ナシ</description>
+      <pubDate>Thu, 03 Sep 2026 07:37:50 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol63.mp3" length="3551476" type="audio/mpeg" />
+      <guid isPermaLink="false">vol63-ja</guid>
+      <itunes:duration>00:08:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>寂しさに寄り添う夜（小野 真琴・22歳・ピアノ講師・普通）</title>
       <description>登場女性:
 名前: 小野 真琴（おの まこと）
