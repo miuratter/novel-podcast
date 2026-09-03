@@ -647,5 +647,16 @@
         "durationFormatted":  "00:07:46",
         "fileSizeBytes":  3295708,
         "guid":  "vol62-en"
+    },
+    {
+        "volume":  63,
+        "title":  "Outside the Lecture Hall (Nakajima Misuzu, 22, Secretary, Average)",
+        "description":  "Female character:\nName: Misuzu Nakajima\nAge: 22\nOccupation: Secretary\nHair: Long hair\nBody Type: Average\nFeatures: Stylish, glossy/glamorous\nSpeech Style: Fast talker\nVibe: Childlike\nWay of Showing Love: Devoted type\nLove Style: Proactive\nEmotional Side: Jealous\nView on Love: Romantic\nStatus: Single, no boyfriend",
+        "pubDate":  "Thu, 03 Sep 2026 07:38:09 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol63.mp3",
+        "durationSeconds":  448.469333,
+        "durationFormatted":  "00:07:28",
+        "fileSizeBytes":  3157372,
+        "guid":  "vol63-en"
     }
 ]
