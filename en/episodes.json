@@ -658,5 +658,16 @@
         "durationFormatted":  "00:07:28",
         "fileSizeBytes":  3157372,
         "guid":  "vol63-en"
+    },
+    {
+        "volume":  64,
+        "title":  "Title: A Quick-Talking Housewife and an Autumn Night Lecture (Nakagawa Miki, 26, Housewife, Average)",
+        "description":  "Female character:\nName: Miki Nakagawa\nAge: 26\nOccupation: Married Woman\nHair: Short Hair\nBody Type: Average\nFeatures: Droopy Eyes, Beautiful Hips\nSpeech Style: Fast Talker\nVibe: Airheaded\nLove Language: Devoted/Giving Type\nRomance Style: Cautious (Reserved)\nEmotional Side: Honest/Straightforward\nLove Views: Prone to Cheating\nStatus: Married",
+        "pubDate":  "Fri, 04 Sep 2026 08:48:53 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol64.mp3",
+        "durationSeconds":  369.237333,
+        "durationFormatted":  "00:06:09",
+        "fileSizeBytes":  2653924,
+        "guid":  "vol64-en"
     }
 ]
