@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Title: A Quick-Talking Housewife and an Autumn Night Lecture (Nakagawa Miki, 26, Housewife, Average)</title>
+      <description>Female character:
+Name: Miki Nakagawa
+Age: 26
+Occupation: Married Woman
+Hair: Short Hair
+Body Type: Average
+Features: Droopy Eyes, Beautiful Hips
+Speech Style: Fast Talker
+Vibe: Airheaded
+Love Language: Devoted/Giving Type
+Romance Style: Cautious (Reserved)
+Emotional Side: Honest/Straightforward
+Love Views: Prone to Cheating
+Status: Married</description>
+      <pubDate>Fri, 04 Sep 2026 08:48:53 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol64.mp3" length="2653924" type="audio/mpeg" />
+      <guid isPermaLink="false">vol64-en</guid>
+      <itunes:duration>00:06:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Outside the Lecture Hall (Nakajima Misuzu, 22, Secretary, Average)</title>
       <description>Female character:
 Name: Misuzu Nakajima
