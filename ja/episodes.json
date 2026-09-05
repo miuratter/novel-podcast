@@ -669,5 +669,16 @@
         "durationFormatted":  "00:07:23",
         "fileSizeBytes":  2971708,
         "guid":  "vol64-ja"
+    },
+    {
+        "volume":  65,
+        "title":  "研修の夜、教授と（宮本 あかり・30歳・教師・普通）",
+        "description":  "登場女性:\n名前: 宮本 あかり（みやもと あかり）\n年齢: 30\n職業: 教師\n髪: ロングヘア\n体型: 普通\n特徴: 美脚・ギャル\n話し方: タメ口\n雰囲気: 天然\n愛情表現: 甘えさせ上手\n恋愛スタイル: 情熱的\n感情面: 強がり\n恋愛観: 家庭的\nステータス: 未婚だが彼氏持ち",
+        "pubDate":  "Sat, 05 Sep 2026 07:31:23 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol65.mp3",
+        "durationSeconds":  549.632,
+        "durationFormatted":  "00:09:09",
+        "fileSizeBytes":  3689284,
+        "guid":  "vol65-ja"
     }
 ]
