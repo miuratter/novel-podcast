@@ -669,5 +669,16 @@
         "durationFormatted":  "00:06:09",
         "fileSizeBytes":  2653924,
         "guid":  "vol64-en"
+    },
+    {
+        "volume":  65,
+        "title":  "Night at the Training Seminar, with the Professor (Akari Miyamoto, 30, Teacher, Ordinary)",
+        "description":  "Female character:\nName: Akari Miyamoto\nAge: 30\nOccupation: Teacher\nHair: Long hair\nBody Type: Average\nFeatures: Beautiful legs, gyaru style\nSpeech Style: Casual (no honorifics)\nVibe: Airheaded\nWay of Showing Love: Great at pampering others\nLove Style: Passionate\nEmotional Side: Tends to act tough\nView on Love: Family-oriented\nStatus: Single but has a boyfriend",
+        "pubDate":  "Sat, 05 Sep 2026 07:31:35 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol65.mp3",
+        "durationSeconds":  480.128,
+        "durationFormatted":  "00:08:00",
+        "fileSizeBytes":  3310948,
+        "guid":  "vol65-en"
     }
 ]
