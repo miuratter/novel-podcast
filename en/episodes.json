@@ -680,5 +680,16 @@
         "durationFormatted":  "00:08:00",
         "fileSizeBytes":  3310948,
         "guid":  "vol65-en"
+    },
+    {
+        "volume":  66,
+        "title":  "A One-Night Affair: The White Coat and the Professor (Mio Yamazaki, 19, Female Doctor, Slender)",
+        "description":  "Female character:\nName: Yoshio Yamazaki\nAge: 19\nOccupation: Doctor\nHair: Black hair\nBody Type: Slender\nFeatures: Virgin, beautiful hips\nSpeech Style: Slow-spoken\nVibe: Serious/earnest\nLove Expression: Romantic\nLove Style: Falls in love easily\nEmotional Type: Tsundere\nView on Love: Strongly wants to get married\nStatus: Single, no boyfriend",
+        "pubDate":  "Sun, 06 Sep 2026 09:03:29 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol66.mp3",
+        "durationSeconds":  441.386667,
+        "durationFormatted":  "00:07:21",
+        "fileSizeBytes":  3090412,
+        "guid":  "vol66-en"
     }
 ]
