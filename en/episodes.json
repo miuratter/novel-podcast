@@ -691,5 +691,16 @@
         "durationFormatted":  "00:07:21",
         "fileSizeBytes":  3090412,
         "guid":  "vol66-en"
+    },
+    {
+        "volume":  67,
+        "title":  "Paris Night, A Brief Romance (Fujiwara Mika, 27, Flight Attendant, Curvy)",
+        "description":  "Female character:\nName: Mika Fujiwara (藤原 美佳)\nAge: 27\nOccupation: Flight Attendant\nHair: Long hair\nBody Type: Curvy\nFeatures: Beautiful hips and breasts\nSpeech Style: Speaks politely, often using formal language\nPersonality: Sociable\nWay of Expressing Love: Romantic\nDating Style: Skilled at playing hard to get\nEmotional Side: Jealous type\nView on Love: Strongly wants to get married\nStatus: Unmarried, but has a boyfriend",
+        "pubDate":  "Mon, 07 Sep 2026 10:41:08 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol67.mp3",
+        "durationSeconds":  420.821333,
+        "durationFormatted":  "00:07:00",
+        "fileSizeBytes":  2888236,
+        "guid":  "vol67-en"
     }
 ]
