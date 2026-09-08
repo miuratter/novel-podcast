@@ -702,5 +702,16 @@
         "durationFormatted":  "00:07:00",
         "fileSizeBytes":  2888236,
         "guid":  "vol67-en"
+    },
+    {
+        "volume":  68,
+        "title":  "A Promise for Tonight Only (Shizuku Shirai, 27, Yoga Instructor, Slender)",
+        "description":  "Female character:\nName: Shizuku Shirai\nAge: 27\nOccupation: Yoga Instructor\nHair: Twin Tails\nBody Type: Slender\nFeatures: Tall \u0026 Slim\nSpeech Style: Fast Talker\nVibe: Mysterious\nWay of Showing Love: Devoted Type\nLove Style: Skilled at Playing Hard to Get\nEmotional Side: Tends to Act Tough\nRelationship Values: Family-Oriented\nStatus: Single, No Boyfriend",
+        "pubDate":  "Tue, 08 Sep 2026 07:43:24 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol68.mp3",
+        "durationSeconds":  489.514667,
+        "durationFormatted":  "00:08:09",
+        "fileSizeBytes":  3484660,
+        "guid":  "vol68-en"
     }
 ]
