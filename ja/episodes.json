@@ -702,5 +702,16 @@
         "durationFormatted":  "00:08:15",
         "fileSizeBytes":  3327844,
         "guid":  "vol67-ja"
+    },
+    {
+        "volume":  68,
+        "title":  "今夜だけの約束（白井 雫・27歳・ヨガインストラクター・スレンダー）",
+        "description":  "登場女性:\n名前: 白井 雫（しらい しずく）\n年齢: 27\n職業: ヨガインストラクター\n髪: ツインテール\n体型: スレンダー\n特徴: 高身長・華奢\n話し方: 早口\n雰囲気: ミステリアス\n愛情表現: 尽くすタイプ\n恋愛スタイル: 駆け引き上手\n感情面: 強がり\n恋愛観: 家庭的\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Tue, 08 Sep 2026 07:43:10 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol68.mp3",
+        "durationSeconds":  586.965333,
+        "durationFormatted":  "00:09:46",
+        "fileSizeBytes":  3987172,
+        "guid":  "vol68-ja"
     }
 ]
