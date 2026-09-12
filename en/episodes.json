@@ -735,5 +735,16 @@
         "durationFormatted":  "00:06:20",
         "fileSizeBytes":  2569084,
         "guid":  "vol70-en"
+    },
+    {
+        "volume":  71,
+        "title":  "A Night Encountered at a Training Seminar (Yuka Ueda, 25, Teacher, Ordinary)",
+        "description":  "Female character:\nName: Yuka Ueda\nAge: 25\nOccupation: Teacher\nHair: Brown\nBody Type: Average\nFeatures: Beautiful legs, droopy eyes\nSpeech Style: Casual\nVibe: Airheaded\nLove Language: Likes to be pampered\nRomance Style: Cautious (a bit shy/reserved)\nEmotional Type: Tsundere\nViews on Love: Family-oriented/domestic\nStatus: Single, no boyfriend",
+        "pubDate":  "Sat, 12 Sep 2026 12:22:44 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol71.mp3",
+        "durationSeconds":  474.88,
+        "durationFormatted":  "00:07:54",
+        "fileSizeBytes":  3252604,
+        "guid":  "vol71-en"
     }
 ]
