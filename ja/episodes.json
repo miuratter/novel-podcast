@@ -746,5 +746,16 @@
         "durationFormatted":  "00:09:11",
         "fileSizeBytes":  3699076,
         "guid":  "vol71-ja"
+    },
+    {
+        "volume":  72,
+        "title":  "一夜の白衣（井口 香織・30歳・女医・スレンダー）",
+        "description":  "登場女性:\n名前: 井口 香織（いぐち かおり）\n年齢: 30\n職業: 女医\n髪: ロングヘア\n体型: スレンダー\n特徴: 小柄・艶やか\n話し方: 言葉少ない\n雰囲気: 真面目\n愛情表現: 甘えん坊\n恋愛スタイル: 積極的\n感情面: ツンデレ\n恋愛観: 結婚願望が強い\nステータス: 未婚だが彼氏持ち",
+        "pubDate":  "Sun, 13 Sep 2026 12:42:24 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol72.mp3",
+        "durationSeconds":  661.034667,
+        "durationFormatted":  "00:11:01",
+        "fileSizeBytes":  4425004,
+        "guid":  "vol72-ja"
     }
 ]
