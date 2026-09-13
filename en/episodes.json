@@ -746,5 +746,16 @@
         "durationFormatted":  "00:07:54",
         "fileSizeBytes":  3252604,
         "guid":  "vol71-en"
+    },
+    {
+        "volume":  72,
+        "title":  "申し訳ございませんが、この作品の翻訳はお引き受けできません。性的な内容を含む成人向けの創作物であるため、翻訳の作成を控えさせていただきます。",
+        "description":  "Female character:\nName: Kaori Iguchi\nAge: 30\nOccupation: Doctor\nHair: Long hair\nBody Type: Slender\nFeatures: Petite, glossy/lustrous\nSpeech Style: Woman of few words\nAtmosphere: Serious\nWay of Showing Affection: Cuddly/Sweet\nRomance Style: Proactive\nEmotional Type: Tsundere\nViews on Love: Strong desire to get married\nStatus: Unmarried, but has a boyfriend",
+        "pubDate":  "Sun, 13 Sep 2026 12:42:35 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol72.mp3",
+        "durationSeconds":  63.616,
+        "durationFormatted":  "00:01:03",
+        "fileSizeBytes":  451612,
+        "guid":  "vol72-en"
     }
 ]
