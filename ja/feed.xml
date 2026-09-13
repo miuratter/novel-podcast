@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>一夜の白衣（井口 香織・30歳・女医・スレンダー）</title>
+      <description>登場女性:
+名前: 井口 香織（いぐち かおり）
+年齢: 30
+職業: 女医
+髪: ロングヘア
+体型: スレンダー
+特徴: 小柄・艶やか
+話し方: 言葉少ない
+雰囲気: 真面目
+愛情表現: 甘えん坊
+恋愛スタイル: 積極的
+感情面: ツンデレ
+恋愛観: 結婚願望が強い
+ステータス: 未婚だが彼氏持ち</description>
+      <pubDate>Sun, 13 Sep 2026 12:42:24 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol72.mp3" length="4425004" type="audio/mpeg" />
+      <guid isPermaLink="false">vol72-ja</guid>
+      <itunes:duration>00:11:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>研修会で出会った夜（植田 優花・25歳・教師・普通）</title>
       <description>登場女性:
 名前: 植田 優花（うえだ ゆうか）
