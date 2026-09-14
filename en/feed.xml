@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Wine Glass on a Night Flight (Fujita Rinne, 28, Flight Attendant, Model Figure)</title>
+      <description>Female character:
+Name: Rion Fujita
+Age: 28
+Occupation: Flight Attendant
+Hair: Ponytail
+Body Type: Model-like figure
+Features: Small chest, petite/childlike body type
+Speech Style: Woman of few words
+Atmosphere: Mysterious
+Affection Style: Loves physical touch
+Love Style: Experienced
+Emotional Side: Puts up a tough front
+View on Love: Hopeless romantic
+Status: Single but has a boyfriend</description>
+      <pubDate>Mon, 14 Sep 2026 13:19:01 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol73.mp3" length="3244444" type="audio/mpeg" />
+      <guid isPermaLink="false">vol73-en</guid>
+      <itunes:duration>00:07:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>A Night Encountered at a Training Seminar (Yuka Ueda, 25, Teacher, Ordinary)</title>
       <description>Female character:
 Name: Yuka Ueda
