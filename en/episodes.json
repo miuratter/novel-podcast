@@ -746,5 +746,16 @@
         "durationFormatted":  "00:07:54",
         "fileSizeBytes":  3252604,
         "guid":  "vol71-en"
+    },
+    {
+        "volume":  73,
+        "title":  "Wine Glass on a Night Flight (Fujita Rinne, 28, Flight Attendant, Model Figure)",
+        "description":  "Female character:\nName: Rion Fujita\nAge: 28\nOccupation: Flight Attendant\nHair: Ponytail\nBody Type: Model-like figure\nFeatures: Small chest, petite/childlike body type\nSpeech Style: Woman of few words\nAtmosphere: Mysterious\nAffection Style: Loves physical touch\nLove Style: Experienced\nEmotional Side: Puts up a tough front\nView on Love: Hopeless romantic\nStatus: Single but has a boyfriend",
+        "pubDate":  "Mon, 14 Sep 2026 13:19:01 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol73.mp3",
+        "durationSeconds":  463.317333,
+        "durationFormatted":  "00:07:43",
+        "fileSizeBytes":  3244444,
+        "guid":  "vol73-en"
     }
 ]
