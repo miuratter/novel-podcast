@@ -757,5 +757,16 @@
         "durationFormatted":  "00:07:43",
         "fileSizeBytes":  3244444,
         "guid":  "vol73-en"
+    },
+    {
+        "volume":  74,
+        "title":  "Autumn at the Yoga Studio (Naomi Yamauchi, 27, Yoga Instructor, Average)",
+        "description":  "Female character:\nName: Naomi Yamauchi (山内 直美)\nAge: 27\nOccupation: Yoga Instructor\nHair: Long hair\nBody Type: Average\nFeatures: Droopy eyes, Busty\nSpeech Style: Polite\nPersonality: Serious/Earnest\nWay of Showing Affection: Clingy/Sweet\nLove Style: Cautious (Reserved)\nEmotional Type: Tsundere\nRomantic Preference: Likes older men\nStatus: Single, no boyfriend",
+        "pubDate":  "Tue, 15 Sep 2026 08:19:31 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol74.mp3",
+        "durationSeconds":  511.872,
+        "durationFormatted":  "00:08:31",
+        "fileSizeBytes":  3515572,
+        "guid":  "vol74-en"
     }
 ]
