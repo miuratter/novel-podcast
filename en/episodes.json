@@ -779,5 +779,16 @@
         "durationFormatted":  "00:07:37",
         "fileSizeBytes":  3218164,
         "guid":  "vol75-en"
+    },
+    {
+        "volume":  76,
+        "title":  "A Fast-Talking Woman and a Quiet Night (Mio Matsunaga, 25, Personal Trainer, Average)",
+        "description":  "Female character:\nName: Mio Matsunaga\nAge: 25\nOccupation: Personal Trainer\nHair: Black\nBody Type: Average\nTraits: Boyish, Virgin\nSpeech Style: Fast-talker\nVibe: Great Listener\nWay of Showing Love: Devoted\nLove Style: Shy/Reserved\nEmotional Side: Honest\nViews on Love: Romantic\nStatus: Single, no boyfriend",
+        "pubDate":  "Thu, 17 Sep 2026 07:24:28 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol76.mp3",
+        "durationSeconds":  482.901333,
+        "durationFormatted":  "00:08:02",
+        "fileSizeBytes":  3416524,
+        "guid":  "vol76-en"
     }
 ]
