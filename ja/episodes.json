@@ -790,5 +790,16 @@
         "durationFormatted":  "00:08:43",
         "fileSizeBytes":  3573460,
         "guid":  "vol75-ja"
+    },
+    {
+        "volume":  76,
+        "title":  "早口な彼女と、静かな夜（松永 美桜・25歳・パーソナルトレーナー・普通）",
+        "description":  "登場女性:\n名前: 松永 美桜（まつなが みお）\n年齢: 25\n職業: パーソナルトレーナー\n髪: 黒髪\n体型: 普通\n特徴: ボーイッシュ・処女\n話し方: 早口\n雰囲気: 聞き上手\n愛情表現: 一途\n恋愛スタイル: 奥手\n感情面: 素直\n恋愛観: ロマンチスト\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Thu, 17 Sep 2026 07:24:12 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol76.mp3",
+        "durationSeconds":  576,
+        "durationFormatted":  "00:09:36",
+        "fileSizeBytes":  3872524,
+        "guid":  "vol76-ja"
     }
 ]
