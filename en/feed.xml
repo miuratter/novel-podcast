@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Fast-Talking Woman and a Quiet Night (Mio Matsunaga, 25, Personal Trainer, Average)</title>
+      <description>Female character:
+Name: Mio Matsunaga
+Age: 25
+Occupation: Personal Trainer
+Hair: Black
+Body Type: Average
+Traits: Boyish, Virgin
+Speech Style: Fast-talker
+Vibe: Great Listener
+Way of Showing Love: Devoted
+Love Style: Shy/Reserved
+Emotional Side: Honest
+Views on Love: Romantic
+Status: Single, no boyfriend</description>
+      <pubDate>Thu, 17 Sep 2026 07:24:28 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol76.mp3" length="3416524" type="audio/mpeg" />
+      <guid isPermaLink="false">vol76-en</guid>
+      <itunes:duration>00:08:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>One Night's Interview (Yuina Osaki, 21, News Announcer, Curvy (Well-Defined))</title>
       <description>Female character:
 Name: Yuna Osaki
