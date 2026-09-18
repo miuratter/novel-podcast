@@ -790,5 +790,16 @@
         "durationFormatted":  "00:08:02",
         "fileSizeBytes":  3416524,
         "guid":  "vol76-en"
+    },
+    {
+        "volume":  77,
+        "title":  "A Night Flight, A Quiet Wake (Yuina Sakuraba, 29, Flight Attendant, Ordinary)",
+        "description":  "Female character:\nName: Yuna Sakuraba\nAge: 29\nOccupation: Flight Attendant\nHair: Black hair\nBody Type: Average\nFeatures: Elegant and modest, small bust\nSpeech Style: Polite\nAtmosphere: Mysterious\nWay of Showing Love: Devoted type\nRomantic Style: Skilled at playing hard to get\nEmotional Side: Tends to act tough\nViews on Love: Strongly desires marriage\nStatus: Single, no boyfriend",
+        "pubDate":  "Fri, 18 Sep 2026 08:02:42 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol77.mp3",
+        "durationSeconds":  499.242667,
+        "durationFormatted":  "00:08:19",
+        "fileSizeBytes":  3442828,
+        "guid":  "vol77-en"
     }
 ]
