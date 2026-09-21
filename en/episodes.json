@@ -823,5 +823,16 @@
         "durationFormatted":  "00:08:14",
         "fileSizeBytes":  3387844,
         "guid":  "vol79-en"
+    },
+    {
+        "volume":  80,
+        "title":  "Night View and a Quiet Morning (Yamada Naoko, 26, Personal Trainer, Slender)",
+        "description":  "Female character:\nName: Naoko Yamada\nAge: 26\nOccupation: Personal Trainer\nHair: Black hair\nBody Type: Slender\nFeatures: Beautiful legs, boyish charm\nSpeech: Slow and calm\nVibe: Shy around new people\nWay of Showing Love: Romantic\nLove Style: Passionate\nEmotional Side: Honest and straightforward\nView on Love: Romantic at heart\nStatus: Single, no boyfriend",
+        "pubDate":  "Mon, 21 Sep 2026 09:05:22 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol80.mp3",
+        "durationSeconds":  435.541333,
+        "durationFormatted":  "00:07:15",
+        "fileSizeBytes":  3026500,
+        "guid":  "vol80-en"
     }
 ]
