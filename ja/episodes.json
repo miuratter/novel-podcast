@@ -834,5 +834,16 @@
         "durationFormatted":  "00:09:47",
         "fileSizeBytes":  3982300,
         "guid":  "vol79-ja"
+    },
+    {
+        "volume":  80,
+        "title":  "夜景と静かな朝（山田 直子・26歳・パーソナルトレーナー・スレンダー）",
+        "description":  "登場女性:\n名前: 山田 直子（やまだ なおこ）\n年齢: 26\n職業: パーソナルトレーナー\n髪: 黒髪\n体型: スレンダー\n特徴: 美脚・ボーイッシュ\n話し方: スロー（ゆっくり）\n雰囲気: 人見知り\n愛情表現: ロマンチスト\n恋愛スタイル: 情熱的\n感情面: 素直\n恋愛観: ロマンチスト\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Mon, 21 Sep 2026 09:05:08 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol80.mp3",
+        "durationSeconds":  522.496,
+        "durationFormatted":  "00:08:42",
+        "fileSizeBytes":  3517564,
+        "guid":  "vol80-ja"
     }
 ]
