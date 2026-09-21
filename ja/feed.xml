@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>夜景と静かな朝（山田 直子・26歳・パーソナルトレーナー・スレンダー）</title>
+      <description>登場女性:
+名前: 山田 直子（やまだ なおこ）
+年齢: 26
+職業: パーソナルトレーナー
+髪: 黒髪
+体型: スレンダー
+特徴: 美脚・ボーイッシュ
+話し方: スロー（ゆっくり）
+雰囲気: 人見知り
+愛情表現: ロマンチスト
+恋愛スタイル: 情熱的
+感情面: 素直
+恋愛観: ロマンチスト
+ステータス: 未婚で彼氏ナシ</description>
+      <pubDate>Mon, 21 Sep 2026 09:05:08 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol80.mp3" length="3517564" type="audio/mpeg" />
+      <guid isPermaLink="false">vol80-ja</guid>
+      <itunes:duration>00:08:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>歯科医院の彼女、雨上がりの朝（中村 優花・18歳・歯科衛生士・普通）</title>
       <description>登場女性:
 名前: 中村 優花（なかむら ゆうか）
