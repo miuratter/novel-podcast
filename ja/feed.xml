@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>早口の彼女と、静かな夜（藤井 美佳・27歳・美容師・普通）</title>
+      <description>登場女性:
+名前: 藤井 美佳（ふじい みか）
+年齢: 27
+職業: 美容師
+髪: ロングヘア
+体型: 普通
+特徴: 美肌・ノーメイク
+話し方: 早口
+雰囲気: 人見知り
+愛情表現: スキンシップ好き
+恋愛スタイル: 駆け引き上手
+感情面: 嫉妬深い
+恋愛観: 結婚願望が強い
+ステータス: 未婚で彼氏ナシ</description>
+      <pubDate>Tue, 22 Sep 2026 07:10:29 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol81.mp3" length="4156228" type="audio/mpeg" />
+      <guid isPermaLink="false">vol81-ja</guid>
+      <itunes:duration>00:10:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>夜景と静かな朝（山田 直子・26歳・パーソナルトレーナー・スレンダー）</title>
       <description>登場女性:
 名前: 山田 直子（やまだ なおこ）
