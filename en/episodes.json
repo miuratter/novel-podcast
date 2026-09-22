@@ -834,5 +834,16 @@
         "durationFormatted":  "00:07:15",
         "fileSizeBytes":  3026500,
         "guid":  "vol80-en"
+    },
+    {
+        "volume":  81,
+        "title":  "The Fast-Talking Woman and the Quiet Night (Mika Fujii, 27, Hairstylist, Average)",
+        "description":  "Female character:\nName: Mika Fujii\nAge: 27\nOccupation: Hairstylist\nHair: Long hair\nBody Type: Average\nFeatures: Beautiful skin, no makeup\nSpeech Style: Talks fast\nVibe: Shy around strangers\nWay of Showing Affection: Loves physical touch\nLove Style: Skilled at playing hard to get\nEmotional Side: Prone to jealousy\nViews on Love: Strongly wants to get married\nStatus: Single, no boyfriend",
+        "pubDate":  "Tue, 22 Sep 2026 07:10:44 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol81.mp3",
+        "durationSeconds":  528.512,
+        "durationFormatted":  "00:08:48",
+        "fileSizeBytes":  3771148,
+        "guid":  "vol81-en"
     }
 ]
