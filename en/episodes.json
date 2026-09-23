@@ -845,5 +845,16 @@
         "durationFormatted":  "00:08:48",
         "fileSizeBytes":  3771148,
         "guid":  "vol81-en"
+    },
+    {
+        "volume":  82,
+        "title":  "Rainy Evening Café, A Night of Love (Sai Ayaka, 27, Café Clerk, Slender)",
+        "description":  "Female character:\nName: Ayaka Sai\nAge: 27\nOccupation: Cafe Staff\nHair: Twin Tails\nBody Type: Slender\nFeatures: Small Chest, Petite/Childlike Figure\nSpeech Style: Slow-paced\nVibe: Airheaded/Natural\nLove Language: Prefers Being Doted On\nRomantic Style: Skilled at Playing Hard to Get\nEmotional Type: Tsundere\nViews on Love: Family-Oriented\nStatus: Single, No Boyfriend",
+        "pubDate":  "Wed, 23 Sep 2026 15:44:02 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol82.mp3",
+        "durationSeconds":  393.045333,
+        "durationFormatted":  "00:06:33",
+        "fileSizeBytes":  2686780,
+        "guid":  "vol82-en"
     }
 ]
