@@ -856,5 +856,16 @@
         "durationFormatted":  "00:06:33",
         "fileSizeBytes":  2686780,
         "guid":  "vol82-en"
+    },
+    {
+        "volume":  83,
+        "title":  "A Page of a Moonlit Night (Kawabata Mika, 20 years old, actress, slender)",
+        "description":  "Female character:\nName: Mihana Kawabata\nAge: 20\nOccupation: Actress\nHair: Black\nBody Type: Slender\nCharacteristics: Fashionable, glamorous\nSpeech Style: Few words\nAtmosphere: Sensual\nLove Expression: Prefers to be doted on\nRomantic Style: Cautious (reserved)\nEmotional Side: Jealous\nViews on Love: Strong desire to get married\nStatus: Unmarried but has a boyfriend",
+        "pubDate":  "Thu, 24 Sep 2026 14:46:52 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol83.mp3",
+        "durationSeconds":  395.989333,
+        "durationFormatted":  "00:06:35",
+        "fileSizeBytes":  2737372,
+        "guid":  "vol83-en"
     }
 ]
