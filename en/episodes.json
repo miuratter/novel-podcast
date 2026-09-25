@@ -867,5 +867,16 @@
         "durationFormatted":  "00:06:35",
         "fileSizeBytes":  2737372,
         "guid":  "vol83-en"
+    },
+    {
+        "volume":  84,
+        "title":  "A Single Night Together (Yamamoto Ayaka, 24, Personal Trainer, Curvy)",
+        "description":  "Female character:\nName: Ayaka Yamamoto\nAge: 24\nOccupation: Personal Trainer\nHair: Long hair\nBody Type: Curvy\nFeatures: Gyaru style / Petite frame\nSpeech Style: Speaks politely (frequently uses formal language)\nAtmosphere: Gentle and kind\nLove Language: Prefers to be pampered and devoted to\nRomantic Style: Passionate\nEmotional Side: Prone to loneliness\nType: Has a preference for older men\nStatus: Single but currently has a boyfriend",
+        "pubDate":  "Fri, 25 Sep 2026 14:36:26 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol84.mp3",
+        "durationSeconds":  415.274667,
+        "durationFormatted":  "00:06:55",
+        "fileSizeBytes":  2828788,
+        "guid":  "vol84-en"
     }
 ]
