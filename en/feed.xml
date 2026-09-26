@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bright Nights at the Lecture Hall (Yuka Fujimoto, 18, Teacher, Ordinary)</title>
+      <description>Female character:
+Name: Yuika Fujimoto
+Age: 18
+Occupation: Teacher
+Hair: Ponytail
+Build: Average
+Features: Petite/childlike figure, fashionable
+Speech style: Mostly polite/formal language
+Vibe: Soothing, healing presence
+Way of expressing love: Romantic
+Approach to love: Proactive
+Emotional side: Tsundere
+View on love: Romantic
+Status: Single, no boyfriend</description>
+      <pubDate>Sat, 26 Sep 2026 09:20:59 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol85.mp3" length="3654364" type="audio/mpeg" />
+      <guid isPermaLink="false">vol85-en</guid>
+      <itunes:duration>00:08:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>A Single Night Together (Yamamoto Ayaka, 24, Personal Trainer, Curvy)</title>
       <description>Female character:
 Name: Ayaka Yamamoto
