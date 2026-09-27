@@ -889,5 +889,16 @@
         "durationFormatted":  "00:08:47",
         "fileSizeBytes":  3654364,
         "guid":  "vol85-en"
+    },
+    {
+        "volume":  86,
+        "title":  "An Early Summer Night, the Young Lady and the Professor (Ono Rino, 29, Young Lady, Ordinary)",
+        "description":  "Female character:\nName: Rino Ono\nAge: 29\nOccupation: Young Lady of a Wealthy Family\nHair: Black hair\nBody Type: Average\nFeatures: Beautiful legs, petite\nSpeech Style: Fast talker\nVibe: Shy around others\nExpression of Love: Devoted\nRomantic Style: Proactive\nEmotional Side: Jealous\nLove Views: Prone to infidelity\nStatus: Single, no boyfriend",
+        "pubDate":  "Sun, 27 Sep 2026 08:12:05 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol86.mp3",
+        "durationSeconds":  466.858667,
+        "durationFormatted":  "00:07:46",
+        "fileSizeBytes":  3233932,
+        "guid":  "vol86-en"
     }
 ]
