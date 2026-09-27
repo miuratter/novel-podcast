@@ -900,5 +900,16 @@
         "durationFormatted":  "00:10:03",
         "fileSizeBytes":  4107364,
         "guid":  "vol85-ja"
+    },
+    {
+        "volume":  86,
+        "title":  "初夏の夜、令嬢と教授（小野 莉乃・29歳・令嬢・普通）",
+        "description":  "登場女性:\n名前: 小野 莉乃（おの りの）\n年齢: 29\n職業: 令嬢\n髪: 黒髪\n体型: 普通\n特徴: 美脚・小柄\n話し方: 早口\n雰囲気: 人見知り\n愛情表現: 一途\n恋愛スタイル: 積極的\n感情面: 嫉妬深い\n恋愛観: 浮気しやすい\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Sun, 27 Sep 2026 08:11:53 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol86.mp3",
+        "durationSeconds":  553.685333,
+        "durationFormatted":  "00:09:13",
+        "fileSizeBytes":  3756940,
+        "guid":  "vol86-ja"
     }
 ]
