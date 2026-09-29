@@ -911,5 +911,16 @@
         "durationFormatted":  "00:06:51",
         "fileSizeBytes":  2902036,
         "guid":  "vol87-en"
+    },
+    {
+        "volume":  88,
+        "title":  "Night of the Tarte Tatin (Kirika Takase, 24, Pâtissière, Ordinary)",
+        "description":  "Female character:\nName: Kirika Takase\nAge: 24\nOccupation: Pastry Chef\nHair: Black\nBuild: Average\nFeatures: Glasses, Petite\nSpeech Style: Casual\nVibe: Mysterious\nLove Language: Prefers to be pampered\nRomance Style: Experienced\nEmotional Side: Has a gap (contrasting sides to her personality)\nType: Attracted to older men\nStatus: Unmarried but has a boyfriend",
+        "pubDate":  "Tue, 29 Sep 2026 05:18:54 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol88.mp3",
+        "durationSeconds":  487.509333,
+        "durationFormatted":  "00:08:07",
+        "fileSizeBytes":  3407500,
+        "guid":  "vol88-en"
     }
 ]
