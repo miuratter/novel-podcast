@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Night of the Tarte Tatin (Kirika Takase, 24, Pâtissière, Ordinary)</title>
+      <description>Female character:
+Name: Kirika Takase
+Age: 24
+Occupation: Pastry Chef
+Hair: Black
+Build: Average
+Features: Glasses, Petite
+Speech Style: Casual
+Vibe: Mysterious
+Love Language: Prefers to be pampered
+Romance Style: Experienced
+Emotional Side: Has a gap (contrasting sides to her personality)
+Type: Attracted to older men
+Status: Unmarried but has a boyfriend</description>
+      <pubDate>Tue, 29 Sep 2026 05:18:54 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol88.mp3" length="3407500" type="audio/mpeg" />
+      <guid isPermaLink="false">vol88-en</guid>
+      <itunes:duration>00:08:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>A Moment in the Morning Light (Miyu Matsubara, 20, Yoga Instructor, Model Physique)</title>
       <description>Female character:
 Name: Miyuu Matsubara
