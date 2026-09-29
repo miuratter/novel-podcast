@@ -922,5 +922,16 @@
         "durationFormatted":  "00:08:35",
         "fileSizeBytes":  3503740,
         "guid":  "vol87-ja"
+    },
+    {
+        "volume":  88,
+        "title":  "タルトタタンの夜（高瀬 霧香・24歳・パティシエ・普通）",
+        "description":  "登場女性:\n名前: 高瀬 霧香（たかせ きりか）\n年齢: 24\n職業: パティシエ\n髪: 黒髪\n体型: 普通\n特徴: 眼鏡・小柄\n話し方: タメ口\n雰囲気: ミステリアス\n愛情表現: 尽くされたいタイプ\n恋愛スタイル: 経験豊富\n感情面: ギャップがある\n恋愛観: おじさん好き\nステータス: 未婚だが彼氏持ち",
+        "pubDate":  "Tue, 29 Sep 2026 05:18:41 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol88.mp3",
+        "durationSeconds":  566.442667,
+        "durationFormatted":  "00:09:26",
+        "fileSizeBytes":  3744316,
+        "guid":  "vol88-ja"
     }
 ]
