@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>One Night's Heat, Morning Silence (Ishiguro Haruka, 23, Personal Trainer, Slender)</title>
+      <description>Female character:
+Name: Haruka Ishiguro
+Age: 23
+Occupation: Personal Trainer
+Hair: Ponytail
+Build: Slender
+Features: Tall, no makeup
+Speech Style: Speaks few words
+Vibe: Mature
+Way of Showing Love: Devoted type
+Romantic Style: Passionate
+Emotional Side: Honest/straightforward
+Love Views: Prone to cheating
+Status: Unmarried, but has a boyfriend</description>
+      <pubDate>Wed, 30 Sep 2026 09:06:27 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol89.mp3" length="3105316" type="audio/mpeg" />
+      <guid isPermaLink="false">vol89-en</guid>
+      <itunes:duration>00:07:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Night of the Tarte Tatin (Kirika Takase, 24, Pâtissière, Ordinary)</title>
       <description>Female character:
 Name: Kirika Takase
