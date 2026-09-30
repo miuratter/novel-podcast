@@ -922,5 +922,16 @@
         "durationFormatted":  "00:08:07",
         "fileSizeBytes":  3407500,
         "guid":  "vol88-en"
+    },
+    {
+        "volume":  89,
+        "title":  "One Night\u0027s Heat, Morning Silence (Ishiguro Haruka, 23, Personal Trainer, Slender)",
+        "description":  "Female character:\nName: Haruka Ishiguro\nAge: 23\nOccupation: Personal Trainer\nHair: Ponytail\nBuild: Slender\nFeatures: Tall, no makeup\nSpeech Style: Speaks few words\nVibe: Mature\nWay of Showing Love: Devoted type\nRomantic Style: Passionate\nEmotional Side: Honest/straightforward\nLove Views: Prone to cheating\nStatus: Unmarried, but has a boyfriend",
+        "pubDate":  "Wed, 30 Sep 2026 09:06:27 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol89.mp3",
+        "durationSeconds":  440.32,
+        "durationFormatted":  "00:07:20",
+        "fileSizeBytes":  3105316,
+        "guid":  "vol89-en"
     }
 ]
