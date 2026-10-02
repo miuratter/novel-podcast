@@ -944,5 +944,16 @@
         "durationFormatted":  "00:08:24",
         "fileSizeBytes":  3428884,
         "guid":  "vol89-ja"
+    },
+    {
+        "volume":  90,
+        "title":  "白衣の下の優しさ（吉田 環・28歳・看護師（ナース）・普通）",
+        "description":  "登場女性:\n名前: 吉田 環（よしだ たまき）\n年齢: 28\n職業: 看護師（ナース）\n髪: ロングヘア\n体型: 普通\n特徴: 眼鏡・ノーメイク\n話し方: スロー（ゆっくり）\n雰囲気: 上品\n愛情表現: 甘えさせ上手\n恋愛スタイル: 恋愛体質（惚れやすい）\n感情面: ツンデレ\n恋愛観: 浮気しやすい\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Fri, 02 Oct 2026 11:35:49 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol90.mp3",
+        "durationSeconds":  585.898667,
+        "durationFormatted":  "00:09:45",
+        "fileSizeBytes":  3891292,
+        "guid":  "vol90-ja"
     }
 ]
