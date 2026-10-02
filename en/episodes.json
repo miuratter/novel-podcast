@@ -933,5 +933,16 @@
         "durationFormatted":  "00:07:20",
         "fileSizeBytes":  3105316,
         "guid":  "vol89-en"
+    },
+    {
+        "volume":  90,
+        "title":  "Tenderness Beneath the White Coat (Tamaki Yoshida, 28, Nurse, Average)",
+        "description":  "Female character:\nName: Tamaki Yoshida\nAge: 28\nOccupation: Nurse\nHair: Long hair\nBody Type: Average\nFeatures: Glasses, no makeup\nSpeech Style: Slow and calm\nAtmosphere: Elegant\nWay of Showing Affection: Good at spoiling others\nLove Style: Falls in love easily\nPersonality: Tsundere\nViews on Love: Prone to cheating\nStatus: Single, no boyfriend",
+        "pubDate":  "Fri, 02 Oct 2026 11:36:00 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol90.mp3",
+        "durationSeconds":  494.037333,
+        "durationFormatted":  "00:08:14",
+        "fileSizeBytes":  3431332,
+        "guid":  "vol90-en"
     }
 ]
