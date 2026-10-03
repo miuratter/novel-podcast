@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Magic Fingertips (Yamaguchi Mika, 21, Therapist, Model Build)</title>
+      <description>Female character:
+Name: Mika Yamaguchi
+Age: 21
+Occupation: Therapist
+Hair: Short hair
+Body Type: Model figure
+Features: Droopy eyes, beautiful skin
+Speech Style: Slow-paced
+Vibe: Great listener
+Way of Showing Love: Devoted to one person
+Love Style: Skilled at playing hard to get
+Emotional Side: Prone to loneliness
+Views on Love: Family-oriented
+Status: Single but has a boyfriend</description>
+      <pubDate>Sat, 03 Oct 2026 02:25:00 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol91.mp3" length="3225364" type="audio/mpeg" />
+      <guid isPermaLink="false">vol91-en</guid>
+      <itunes:duration>00:07:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tenderness Beneath the White Coat (Tamaki Yoshida, 28, Nurse, Average)</title>
       <description>Female character:
 Name: Tamaki Yoshida
