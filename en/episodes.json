@@ -955,5 +955,16 @@
         "durationFormatted":  "00:07:45",
         "fileSizeBytes":  3225364,
         "guid":  "vol91-en"
+    },
+    {
+        "volume":  92,
+        "title":  "The Receptionist After the Rain (Mio Ota, 20, Receptionist at a Major Corporation, Slender)",
+        "description":  "Female character:\nName: Mio Ota (太田 美桜)\nAge: 20\nOccupation: Receptionist at a major corporation\nHair: Black\nBody Type: Slender\nFeatures: Small chest, baby face\nSpeech Style: Polite\nVibe: Airheaded/Natural\nWay of Showing Love: Devoted to one person\nRomance Style: Shy and reserved\nEmotional Side: Prone to jealousy\nViews on Love: Family-oriented\nStatus: Single, no boyfriend",
+        "pubDate":  "Sat, 03 Oct 2026 10:18:42 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol92.mp3",
+        "durationSeconds":  433.834667,
+        "durationFormatted":  "00:07:13",
+        "fileSizeBytes":  3024652,
+        "guid":  "vol92-en"
     }
 ]
