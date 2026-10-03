@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ゆびさきの魔法（山口 美佳・21歳・セラピスト・モデル体型）</title>
+      <description>登場女性:
+名前: 山口 美佳（やまぐち みか）
+年齢: 21
+職業: セラピスト
+髪: ショートヘア
+体型: モデル体型
+特徴: タレ目・美肌
+話し方: スロー（ゆっくり）
+雰囲気: 聞き上手
+愛情表現: 一途
+恋愛スタイル: 駆け引き上手
+感情面: 寂しがり屋
+恋愛観: 家庭的
+ステータス: 未婚だが彼氏持ち</description>
+      <pubDate>Sat, 03 Oct 2026 02:24:48 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol91.mp3" length="3752404" type="audio/mpeg" />
+      <guid isPermaLink="false">vol91-ja</guid>
+      <itunes:duration>00:09:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>白衣の下の優しさ（吉田 環・28歳・看護師（ナース）・普通）</title>
       <description>登場女性:
 名前: 吉田 環（よしだ たまき）
