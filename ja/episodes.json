@@ -955,5 +955,16 @@
         "durationFormatted":  "00:09:45",
         "fileSizeBytes":  3891292,
         "guid":  "vol90-ja"
+    },
+    {
+        "volume":  91,
+        "title":  "ゆびさきの魔法（山口 美佳・21歳・セラピスト・モデル体型）",
+        "description":  "登場女性:\n名前: 山口 美佳（やまぐち みか）\n年齢: 21\n職業: セラピスト\n髪: ショートヘア\n体型: モデル体型\n特徴: タレ目・美肌\n話し方: スロー（ゆっくり）\n雰囲気: 聞き上手\n愛情表現: 一途\n恋愛スタイル: 駆け引き上手\n感情面: 寂しがり屋\n恋愛観: 家庭的\nステータス: 未婚だが彼氏持ち",
+        "pubDate":  "Sat, 03 Oct 2026 02:24:48 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol91.mp3",
+        "durationSeconds":  551.808,
+        "durationFormatted":  "00:09:11",
+        "fileSizeBytes":  3752404,
+        "guid":  "vol91-ja"
     }
 ]
