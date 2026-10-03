@@ -944,5 +944,16 @@
         "durationFormatted":  "00:08:14",
         "fileSizeBytes":  3431332,
         "guid":  "vol90-en"
+    },
+    {
+        "volume":  91,
+        "title":  "Magic Fingertips (Yamaguchi Mika, 21, Therapist, Model Build)",
+        "description":  "Female character:\nName: Mika Yamaguchi\nAge: 21\nOccupation: Therapist\nHair: Short hair\nBody Type: Model figure\nFeatures: Droopy eyes, beautiful skin\nSpeech Style: Slow-paced\nVibe: Great listener\nWay of Showing Love: Devoted to one person\nLove Style: Skilled at playing hard to get\nEmotional Side: Prone to loneliness\nViews on Love: Family-oriented\nStatus: Single but has a boyfriend",
+        "pubDate":  "Sat, 03 Oct 2026 02:25:00 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol91.mp3",
+        "durationSeconds":  465.536,
+        "durationFormatted":  "00:07:45",
+        "fileSizeBytes":  3225364,
+        "guid":  "vol91-en"
     }
 ]
