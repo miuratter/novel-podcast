@@ -966,5 +966,16 @@
         "durationFormatted":  "00:07:13",
         "fileSizeBytes":  3024652,
         "guid":  "vol92-en"
+    },
+    {
+        "volume":  93,
+        "title":  "The Young Lady and the Professor: A One-Night Appraisal (Kobayashi Mina, 27, Young Lady, Slender)",
+        "description":  "Female character:\nName: Mina Kobayashi\nAge: 27\nOccupation: Young Lady from a Wealthy Family\nHair: Long hair\nBody Type: Slender\nFeatures: Beautiful hips, elegant and modest\nWay of Speaking: Fast talker\nAtmosphere: Serious\nWay of Showing Affection: Great at pampering others\nLove Style: Cautious (reserved)\nEmotional Side: Tsundere\nView on Love: Prefers older men\nStatus: Single, no boyfriend",
+        "pubDate":  "Sun, 04 Oct 2026 11:50:02 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol93.mp3",
+        "durationSeconds":  499.157333,
+        "durationFormatted":  "00:08:19",
+        "fileSizeBytes":  3534724,
+        "guid":  "vol93-en"
     }
 ]
