@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Night in the Mirror (Ayako Fujimori · 24 · Hairstylist · Slender)</title>
+      <description>Female character:
+Name: Ayako Fujimori
+Age: 24
+Occupation: Hairstylist
+Hair: Long hair
+Body Type: Slender
+Features: Petite/childlike figure, neat and modest
+Speech Style: Often speaks politely (formal Japanese)
+Atmosphere: Serious and earnest
+Way of Showing Love: Devoted to one person
+Romantic Style: Shy and reserved
+Emotional Side: Has a surprising contrast to her usual self
+Views on Love: Romantic at heart
+Status: Single, no boyfriend</description>
+      <pubDate>Mon, 05 Oct 2026 12:54:57 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol94.mp3" length="3107812" type="audio/mpeg" />
+      <guid isPermaLink="false">vol94-en</guid>
+      <itunes:duration>00:07:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Young Lady and the Professor: A One-Night Appraisal (Kobayashi Mina, 27, Young Lady, Slender)</title>
       <description>Female character:
 Name: Mina Kobayashi
