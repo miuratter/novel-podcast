@@ -977,5 +977,16 @@
         "durationFormatted":  "00:08:19",
         "fileSizeBytes":  3534724,
         "guid":  "vol93-en"
+    },
+    {
+        "volume":  94,
+        "title":  "A Night in the Mirror (Ayako Fujimori · 24 · Hairstylist · Slender)",
+        "description":  "Female character:\nName: Ayako Fujimori\nAge: 24\nOccupation: Hairstylist\nHair: Long hair\nBody Type: Slender\nFeatures: Petite/childlike figure, neat and modest\nSpeech Style: Often speaks politely (formal Japanese)\nAtmosphere: Serious and earnest\nWay of Showing Love: Devoted to one person\nRomantic Style: Shy and reserved\nEmotional Side: Has a surprising contrast to her usual self\nViews on Love: Romantic at heart\nStatus: Single, no boyfriend",
+        "pubDate":  "Mon, 05 Oct 2026 12:54:57 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol94.mp3",
+        "durationSeconds":  456.064,
+        "durationFormatted":  "00:07:36",
+        "fileSizeBytes":  3107812,
+        "guid":  "vol94-en"
     }
 ]
