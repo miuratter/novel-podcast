@@ -988,5 +988,16 @@
         "durationFormatted":  "00:09:26",
         "fileSizeBytes":  3870100,
         "guid":  "vol93-ja"
+    },
+    {
+        "volume":  94,
+        "title":  "鏡の中の一夜（藤森 綾子・24歳・美容師・スレンダー）",
+        "description":  "登場女性:\n名前: 藤森 綾子（ふじもり あやこ）\n年齢: 24\n職業: 美容師\n髪: ロングヘア\n体型: スレンダー\n特徴: 幼児体型・清楚\n話し方: 敬語が多い\n雰囲気: 真面目\n愛情表現: 一途\n恋愛スタイル: 奥手\n感情面: ギャップがある\n恋愛観: ロマンチスト\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Mon, 05 Oct 2026 12:54:40 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol94.mp3",
+        "durationSeconds":  544.938667,
+        "durationFormatted":  "00:09:04",
+        "fileSizeBytes":  3694780,
+        "guid":  "vol94-ja"
     }
 ]
