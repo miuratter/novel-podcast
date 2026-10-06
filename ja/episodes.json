@@ -999,5 +999,16 @@
         "durationFormatted":  "00:09:04",
         "fileSizeBytes":  3694780,
         "guid":  "vol94-ja"
+    },
+    {
+        "volume":  95,
+        "title":  "雨上がりの夜に、傘を分けて（鈴木 優奈・18歳・保育士・グラマー（メリハリ））",
+        "description":  "登場女性:\n名前: 鈴木 優奈（すずき ゆうな）\n年齢: 18\n職業: 保育士\n髪: ポニーテール\n体型: グラマー（メリハリ）\n特徴: 美尻・眼鏡\n話し方: スロー（ゆっくり）\n雰囲気: 社交的\n愛情表現: ロマンチスト\n恋愛スタイル: 情熱的\n感情面: ギャップがある\n恋愛観: ロマンチスト\nステータス: 未婚だが彼氏持ち",
+        "pubDate":  "Tue, 06 Oct 2026 04:55:15 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol95.mp3",
+        "durationSeconds":  467.285333,
+        "durationFormatted":  "00:07:47",
+        "fileSizeBytes":  3166588,
+        "guid":  "vol95-ja"
     }
 ]
