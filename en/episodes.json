@@ -999,5 +999,16 @@
         "durationFormatted":  "00:06:27",
         "fileSizeBytes":  2806252,
         "guid":  "vol95-en"
+    },
+    {
+        "volume":  96,
+        "title":  "The Lonely Yoga Instructor (Ayaka Takashima, 28, Yoga Instructor, Model-like Figure)",
+        "description":  "Female character:\nName: Ayaka Takashima\nAge: 28\nOccupation: Yoga Instructor\nHair: Long hair\nFigure: Model-like physique\nFeatures: Beautiful hips, beautiful skin\nSpeech: Fast talker\nVibe: Sensual/alluring\nAffection Style: Loves physical touch/skinship\nRomance Style: Shy and reserved in love\nEmotional Side: Prone to loneliness\nRomantic Preference: Likes older men\nStatus: Unmarried, but has a boyfriend",
+        "pubDate":  "Wed, 07 Oct 2026 07:55:26 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol96.mp3",
+        "durationSeconds":  479.701333,
+        "durationFormatted":  "00:07:59",
+        "fileSizeBytes":  3342556,
+        "guid":  "vol96-en"
     }
 ]
