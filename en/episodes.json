@@ -1010,5 +1010,16 @@
         "durationFormatted":  "00:07:59",
         "fileSizeBytes":  3342556,
         "guid":  "vol96-en"
+    },
+    {
+        "volume":  97,
+        "title":  "Late Night at the Police Box, an Old Man\u0027s Love (Mizuki Fujisaki, 24, Police Officer, Average)",
+        "description":  "Female character:\nName: Fujisaki Mizuki\nAge: 24\nOccupation: Police Officer\nHair: Long hair\nBuild: Average\nFeatures: Baby face, virgin\nSpeech style: Fast talker\nAtmosphere: Sensual/alluring\nWay of showing affection: Loves physical touch\nRomance style: Shy/reserved\nEmotional side: Prone to loneliness\nRomantic preference: Likes older men\nStatus: Unmarried but has a boyfriend",
+        "pubDate":  "Thu, 08 Oct 2026 03:28:25 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol97.mp3",
+        "durationSeconds":  501.418667,
+        "durationFormatted":  "00:08:21",
+        "fileSizeBytes":  3494164,
+        "guid":  "vol97-en"
     }
 ]
