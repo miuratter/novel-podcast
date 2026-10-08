@@ -1021,5 +1021,16 @@
         "durationFormatted":  "00:10:11",
         "fileSizeBytes":  4165180,
         "guid":  "vol96-ja"
+    },
+    {
+        "volume":  97,
+        "title":  "深夜の交番、初老の恋（藤崎 美月・24歳・警察官・普通）",
+        "description":  "登場女性:\n名前: 藤崎 美月（ふじさき みづき）\n年齢: 24\n職業: 警察官\n髪: ロングヘア\n体型: 普通\n特徴: 童顔・処女\n話し方: 早口\n雰囲気: 色気がある\n愛情表現: スキンシップ好き\n恋愛スタイル: 奥手\n感情面: 寂しがり屋\n恋愛観: おじさん好き\nステータス: 未婚だが彼氏持ち",
+        "pubDate":  "Thu, 08 Oct 2026 03:28:04 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol97.mp3",
+        "durationSeconds":  590.805333,
+        "durationFormatted":  "00:09:50",
+        "fileSizeBytes":  4078036,
+        "guid":  "vol97-ja"
     }
 ]
