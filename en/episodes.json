@@ -1021,5 +1021,16 @@
         "durationFormatted":  "00:08:21",
         "fileSizeBytes":  3494164,
         "guid":  "vol97-en"
+    },
+    {
+        "volume":  98,
+        "title":  "A Flower Bloomed on the Night of the Conference (Hayashi Satomi, 27, Secretary, Ordinary)",
+        "description":  "Female character:\nName: Satomi Hayashi\nAge: 27\nOccupation: Secretary\nHair: Black hair\nBody Type: Average\nFeatures: Fashionable, beautiful skin\nSpeech Style: Frequently uses polite/formal language\nPersonality: Shy around new people\nWay of Showing Affection: Sweet and clingy\nLove Style: Passionate\nEmotional Side: Easily embarrassed\nViews on Love: Family-oriented\nStatus: Single, no boyfriend",
+        "pubDate":  "Fri, 09 Oct 2026 12:12:22 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol98.mp3",
+        "durationSeconds":  400.853333,
+        "durationFormatted":  "00:06:40",
+        "fileSizeBytes":  2819620,
+        "guid":  "vol98-en"
     }
 ]
