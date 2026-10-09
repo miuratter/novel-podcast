@@ -1032,5 +1032,16 @@
         "durationFormatted":  "00:09:50",
         "fileSizeBytes":  4078036,
         "guid":  "vol97-ja"
+    },
+    {
+        "volume":  98,
+        "title":  "学会の夜に咲いた花（林 里美・27歳・秘書・普通）",
+        "description":  "登場女性:\n名前: 林 里美（はやし さとみ）\n年齢: 27\n職業: 秘書\n髪: 黒髪\n体型: 普通\n特徴: お洒落・美肌\n話し方: 敬語が多い\n雰囲気: 人見知り\n愛情表現: 甘えん坊\n恋愛スタイル: 情熱的\n感情面: 照れ屋\n恋愛観: 家庭的\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Fri, 09 Oct 2026 12:11:57 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol98.mp3",
+        "durationSeconds":  486.4,
+        "durationFormatted":  "00:08:06",
+        "fileSizeBytes":  3304012,
+        "guid":  "vol98-ja"
     }
 ]
