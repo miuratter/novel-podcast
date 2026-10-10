@@ -1043,5 +1043,16 @@
         "durationFormatted":  "00:08:06",
         "fileSizeBytes":  3304012,
         "guid":  "vol98-ja"
+    },
+    {
+        "volume":  99,
+        "title":  "おじさん好きの一途なトレーナー（藤森 実花・24歳・パーソナルトレーナー・グラマー（メリハリ））",
+        "description":  "登場女性:\n名前: 藤森 実花（ふじもり みか）\n年齢: 24\n職業: パーソナルトレーナー\n髪: 黒髪\n体型: グラマー（メリハリ）\n特徴: お洒落・ボーイッシュ\n話し方: 敬語が多い\n雰囲気: 真面目\n愛情表現: 一途\n恋愛スタイル: 経験豊富\n感情面: 嫉妬深い\n恋愛観: おじさん好き\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Sat, 10 Oct 2026 07:48:54 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol99.mp3",
+        "durationSeconds":  550.997333,
+        "durationFormatted":  "00:09:10",
+        "fileSizeBytes":  3737644,
+        "guid":  "vol99-ja"
     }
 ]
