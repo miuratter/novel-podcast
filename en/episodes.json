@@ -1032,5 +1032,16 @@
         "durationFormatted":  "00:06:40",
         "fileSizeBytes":  2819620,
         "guid":  "vol98-en"
+    },
+    {
+        "volume":  99,
+        "title":  "A Devoted Trainer Who Loves Older Men (Mika Fujimori, 24, Personal Trainer, Curvy Figure)",
+        "description":  "Female character:\nName: Mika Fujimori\nAge: 24\nOccupation: Personal Trainer\nHair: Black\nBody Type: Curvy (well-defined figure)\nTraits: Stylish, boyish\nSpeech Style: Frequently uses polite/formal language\nVibe: Serious and diligent\nWay of Showing Love: Devoted to one person\nDating Style: Experienced\nEmotional Side: Prone to jealousy\nRomantic Preference: Likes older men\nStatus: Single, no boyfriend",
+        "pubDate":  "Sat, 10 Oct 2026 07:49:11 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol99.mp3",
+        "durationSeconds":  456.789333,
+        "durationFormatted":  "00:07:36",
+        "fileSizeBytes":  3181660,
+        "guid":  "vol99-en"
     }
 ]
