@@ -1054,5 +1054,16 @@
         "durationFormatted":  "00:09:10",
         "fileSizeBytes":  3737644,
         "guid":  "vol99-ja"
+    },
+    {
+        "volume":  100,
+        "title":  "早口のナースと、たった一夜の魔法（加藤 明日香・24歳・看護師（ナース）・普通）",
+        "description":  "登場女性:\n名前: 加藤 明日香（かとう あすか）\n年齢: 24\n職業: 看護師（ナース）\n髪: ショートヘア\n体型: 普通\n特徴: 幼児体型・処女\n話し方: 早口\n雰囲気: 子供っぽい\n愛情表現: 甘えさせ上手\n恋愛スタイル: 駆け引き上手\n感情面: ツンデレ\n恋愛観: 家庭的\nステータス: 未婚だが彼氏持ち",
+        "pubDate":  "Sun, 11 Oct 2026 10:30:59 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol100.mp3",
+        "durationSeconds":  598.058667,
+        "durationFormatted":  "00:09:58",
+        "fileSizeBytes":  4059748,
+        "guid":  "vol100-ja"
     }
 ]
