@@ -1065,5 +1065,16 @@
         "durationFormatted":  "00:08:26",
         "fileSizeBytes":  3566476,
         "guid":  "vol101-en"
+    },
+    {
+        "volume":  102,
+        "title":  "Night of Interview Practice (Murakami Kana, 26, Job Seeker, Curvy Figure)",
+        "description":  "Female character:\nName: Kana Murakami\nAge: 26\nOccupation: Job Seeker\nHair: Long hair\nBody Type: Curvy (voluptuous)\nFeatures: Beautiful legs, fair skin\nSpeech Style: Speaks politely, often using formal language\nAtmosphere: Elegant\nExpression of Love: Romantic\nLove Style: Cautious (reserved/shy)\nEmotional Side: Tends to act tough\nRomantic Preference: Likes older men\nStatus: Unmarried, no boyfriend",
+        "pubDate":  "Tue, 13 Oct 2026 07:40:41 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol102.mp3",
+        "durationSeconds":  413.312,
+        "durationFormatted":  "00:06:53",
+        "fileSizeBytes":  2898340,
+        "guid":  "vol102-en"
     }
 ]
