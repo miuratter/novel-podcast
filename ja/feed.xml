@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/ja/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>面接練習の夜に（村上 華奈・26歳・就活者・グラマー（メリハリ））</title>
+      <description>登場女性:
+名前: 村上 華奈（むらかみ かな）
+年齢: 26
+職業: 就活者
+髪: ロングヘア
+体型: グラマー（メリハリ）
+特徴: 美脚・色白
+話し方: 敬語が多い
+雰囲気: 上品
+愛情表現: ロマンチスト
+恋愛スタイル: 慎重（奥手）
+感情面: 強がり
+恋愛観: おじさん好き
+ステータス: 未婚で彼氏ナシ</description>
+      <pubDate>Tue, 13 Oct 2026 07:40:26 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/ja/episodes/vol102.mp3" length="3564148" type="audio/mpeg" />
+      <guid isPermaLink="false">vol102-ja</guid>
+      <itunes:duration>00:08:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>地下の灯、一夜の魔法（綾部 美咲・30歳・地下アイドル・普通）</title>
       <description>登場女性:
 名前: 綾部 美咲（あやべ みさき）
