@@ -1076,5 +1076,16 @@
         "durationFormatted":  "00:10:23",
         "fileSizeBytes":  4186204,
         "guid":  "vol101-ja"
+    },
+    {
+        "volume":  102,
+        "title":  "面接練習の夜に（村上 華奈・26歳・就活者・グラマー（メリハリ））",
+        "description":  "登場女性:\n名前: 村上 華奈（むらかみ かな）\n年齢: 26\n職業: 就活者\n髪: ロングヘア\n体型: グラマー（メリハリ）\n特徴: 美脚・色白\n話し方: 敬語が多い\n雰囲気: 上品\n愛情表現: ロマンチスト\n恋愛スタイル: 慎重（奥手）\n感情面: 強がり\n恋愛観: おじさん好き\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Tue, 13 Oct 2026 07:40:26 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol102.mp3",
+        "durationSeconds":  524.714667,
+        "durationFormatted":  "00:08:44",
+        "fileSizeBytes":  3564148,
+        "guid":  "vol102-ja"
     }
 ]
