@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Night of Interview Practice (Murakami Kana, 26, Job Seeker, Curvy Figure)</title>
+      <description>Female character:
+Name: Kana Murakami
+Age: 26
+Occupation: Job Seeker
+Hair: Long hair
+Body Type: Curvy (voluptuous)
+Features: Beautiful legs, fair skin
+Speech Style: Speaks politely, often using formal language
+Atmosphere: Elegant
+Expression of Love: Romantic
+Love Style: Cautious (reserved/shy)
+Emotional Side: Tends to act tough
+Romantic Preference: Likes older men
+Status: Unmarried, no boyfriend</description>
+      <pubDate>Tue, 13 Oct 2026 07:40:41 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol102.mp3" length="2898340" type="audio/mpeg" />
+      <guid isPermaLink="false">vol102-en</guid>
+      <itunes:duration>00:06:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>A Light Underground, Magic for One Night (Ayabe Misaki, 30, Underground Idol, Average)</title>
       <description>Female character:
 Name: Misaki Ayabe
