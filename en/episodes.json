@@ -1087,5 +1087,16 @@
         "durationFormatted":  "00:07:27",
         "fileSizeBytes":  3119164,
         "guid":  "vol103-en"
+    },
+    {
+        "volume":  104,
+        "title":  "A Night\u0027s Light (Shibata Miwa, 27, Underground Idol, Slender)",
+        "description":  "Female character:\nName: Miwa Shibata\nAge: 27\nOccupation: Underground Idol\nHair: Brown\nBody Type: Slender\nFeatures: Busty, Fashionable\nSpeech Style: Mostly polite/formal language\nAtmosphere: Gentle\nExpression of Love: Prefers to be pampered\nRomantic Style: Skilled at playing hard to get\nEmotional Side: Honest\nView on Love: Strongly wishes to get married\nStatus: Unmarried but has a boyfriend",
+        "pubDate":  "Thu, 15 Oct 2026 11:19:06 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol104.mp3",
+        "durationSeconds":  512.128,
+        "durationFormatted":  "00:08:32",
+        "fileSizeBytes":  3591772,
+        "guid":  "vol104-en"
     }
 ]
