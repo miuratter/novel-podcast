@@ -1098,5 +1098,16 @@
         "durationFormatted":  "00:08:32",
         "fileSizeBytes":  3591772,
         "guid":  "vol104-en"
+    },
+    {
+        "volume":  105,
+        "title":  "Night View and White Coat: A Short Night\u0027s Promise (Yui Ishida, 26, Nurse, Average)",
+        "description":  "Female character:\nName: Yui Ishida\nAge: 26\nOccupation: Nurse\nHair: Black hair\nBody Type: Average\nFeatures: Beautiful hips, stylish\nSpeech Style: Mostly polite/formal speech\nAtmosphere: Elegant\nExpression of Love: Romantic\nDating Style: Proactive\nEmotional Side: Honest\nView on Love: Romantic\nStatus: Single, no boyfriend",
+        "pubDate":  "Fri, 16 Oct 2026 10:01:35 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol105.mp3",
+        "durationSeconds":  427.733333,
+        "durationFormatted":  "00:07:07",
+        "fileSizeBytes":  2981356,
+        "guid":  "vol105-en"
     }
 ]
