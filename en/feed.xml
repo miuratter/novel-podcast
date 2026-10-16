@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Night View and White Coat: A Short Night's Promise (Yui Ishida, 26, Nurse, Average)</title>
+      <description>Female character:
+Name: Yui Ishida
+Age: 26
+Occupation: Nurse
+Hair: Black hair
+Body Type: Average
+Features: Beautiful hips, stylish
+Speech Style: Mostly polite/formal speech
+Atmosphere: Elegant
+Expression of Love: Romantic
+Dating Style: Proactive
+Emotional Side: Honest
+View on Love: Romantic
+Status: Single, no boyfriend</description>
+      <pubDate>Fri, 16 Oct 2026 10:01:35 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol105.mp3" length="2981356" type="audio/mpeg" />
+      <guid isPermaLink="false">vol105-en</guid>
+      <itunes:duration>00:07:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>A Night's Light (Shibata Miwa, 27, Underground Idol, Slender)</title>
       <description>Female character:
 Name: Miwa Shibata
