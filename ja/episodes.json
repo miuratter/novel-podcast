@@ -1109,5 +1109,16 @@
         "durationFormatted":  "00:10:11",
         "fileSizeBytes":  4087828,
         "guid":  "vol104-ja"
+    },
+    {
+        "volume":  105,
+        "title":  "夜景と白衣、短い夜の約束（石田 結衣・26歳・看護師（ナース）・普通）",
+        "description":  "登場女性:\n名前: 石田 結衣（いしだ ゆい）\n年齢: 26\n職業: 看護師（ナース）\n髪: 黒髪\n体型: 普通\n特徴: 美尻・お洒落\n話し方: 敬語が多い\n雰囲気: 上品\n愛情表現: ロマンチスト\n恋愛スタイル: 積極的\n感情面: 素直\n恋愛観: ロマンチスト\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Fri, 16 Oct 2026 10:01:21 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol105.mp3",
+        "durationSeconds":  500.096,
+        "durationFormatted":  "00:08:20",
+        "fileSizeBytes":  3376180,
+        "guid":  "vol105-ja"
     }
 ]
