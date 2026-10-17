@@ -1120,5 +1120,16 @@
         "durationFormatted":  "00:08:20",
         "fileSizeBytes":  3376180,
         "guid":  "vol105-ja"
+    },
+    {
+        "volume":  106,
+        "title":  "診察室の秘密（小島 美月・28歳・女医・普通）",
+        "description":  "登場女性:\n名前: 小島 美月（こじま みづき）\n年齢: 28\n職業: 女医\n髪: 黒髪\n体型: 普通\n特徴: 美尻・幼児体型\n話し方: 丁寧\n雰囲気: 社交的\n愛情表現: 尽くすタイプ\n恋愛スタイル: 積極的\n感情面: 嫉妬深い\n恋愛観: おじさん好き\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Sat, 17 Oct 2026 08:40:40 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol106.mp3",
+        "durationSeconds":  620.8,
+        "durationFormatted":  "00:10:20",
+        "fileSizeBytes":  4251532,
+        "guid":  "vol106-ja"
     }
 ]
