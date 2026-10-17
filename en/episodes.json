@@ -1109,5 +1109,16 @@
         "durationFormatted":  "00:07:07",
         "fileSizeBytes":  2981356,
         "guid":  "vol105-en"
+    },
+    {
+        "volume":  106,
+        "title":  "The Secret of the Examination Room (Kojima Mizuki, 28, Female Doctor, Average)",
+        "description":  "Female character:\nName: Mizuki Kojima\nAge: 28\nOccupation: Doctor\nHair: Black\nBody Type: Average\nFeatures: Beautiful hips, petite/childlike figure\nSpeech Style: Polite\nVibe: Sociable\nLove Expression: Devoted type\nRomance Style: Proactive\nEmotional Trait: Jealous\nRomantic Preference: Likes older men\nStatus: Single, no boyfriend",
+        "pubDate":  "Sat, 17 Oct 2026 08:40:57 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol106.mp3",
+        "durationSeconds":  493.44,
+        "durationFormatted":  "00:08:13",
+        "fileSizeBytes":  3502060,
+        "guid":  "vol106-en"
     }
 ]
