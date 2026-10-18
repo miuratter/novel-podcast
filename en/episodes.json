@@ -1120,5 +1120,16 @@
         "durationFormatted":  "00:08:13",
         "fileSizeBytes":  3502060,
         "guid":  "vol106-en"
+    },
+    {
+        "volume":  107,
+        "title":  "A Night of Indulgence (Saki Aizawa, 23, Married Woman, Ordinary)",
+        "description":  "Female character:\nName: Saki Aizawa\nAge: 23\nOccupation: Married Woman\nHair: Twin Tails\nBody Type: Average\nFeatures: Slender, Small Chest\nSpeech Style: Slow\nVibe: Sensual\nExpression of Love: Romantic\nDating Style: Skilled at Playing Games (Push and Pull)\nEmotional Side: Honest\nView on Love: Prone to Cheating\nStatus: Married",
+        "pubDate":  "Sun, 18 Oct 2026 11:04:35 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol107.mp3",
+        "durationSeconds":  492.074667,
+        "durationFormatted":  "00:08:12",
+        "fileSizeBytes":  3408532,
+        "guid":  "vol107-en"
     }
 ]
