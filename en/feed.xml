@@ -17,6 +17,28 @@
     </itunes:category>
     <atom:link href="https://miuratter.github.io/novel-podcast/en/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Night of Indulgence (Saki Aizawa, 23, Married Woman, Ordinary)</title>
+      <description>Female character:
+Name: Saki Aizawa
+Age: 23
+Occupation: Married Woman
+Hair: Twin Tails
+Body Type: Average
+Features: Slender, Small Chest
+Speech Style: Slow
+Vibe: Sensual
+Expression of Love: Romantic
+Dating Style: Skilled at Playing Games (Push and Pull)
+Emotional Side: Honest
+View on Love: Prone to Cheating
+Status: Married</description>
+      <pubDate>Sun, 18 Oct 2026 11:04:35 +0000</pubDate>
+      <enclosure url="https://miuratter.github.io/novel-podcast/en/episodes/vol107.mp3" length="3408532" type="audio/mpeg" />
+      <guid isPermaLink="false">vol107-en</guid>
+      <itunes:duration>00:08:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Secret of the Examination Room (Kojima Mizuki, 28, Female Doctor, Average)</title>
       <description>Female character:
 Name: Mizuki Kojima
