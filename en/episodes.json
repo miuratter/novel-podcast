@@ -1131,5 +1131,16 @@
         "durationFormatted":  "00:08:12",
         "fileSizeBytes":  3408532,
         "guid":  "vol107-en"
+    },
+    {
+        "volume":  108,
+        "title":  "The Receptionist and the Professor: A One-Night Romance (Yuka Takizawa, 25, Receptionist at a Major Corporation, Slender)",
+        "description":  "Female character:\nName: Yuka Takizawa\nAge: 25\nOccupation: Receptionist at a major corporation\nHair: Ponytail\nBody Type: Slender\nFeatures: Boyish, glasses\nSpeech Style: Frequently uses polite/formal language\nAtmosphere: Soothing, healing presence\nExpression of Love: Devoted and faithful\nRomantic Style: Cautious (shy and reserved)\nEmotional Side: Easily embarrassed\nViews on Love: Romantic at heart\nStatus: Single, no boyfriend",
+        "pubDate":  "Mon, 19 Oct 2026 09:40:09 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol108.mp3",
+        "durationSeconds":  434.346667,
+        "durationFormatted":  "00:07:14",
+        "fileSizeBytes":  3036700,
+        "guid":  "vol108-en"
     }
 ]
