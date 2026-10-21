@@ -1153,5 +1153,16 @@
         "durationFormatted":  "00:06:24",
         "fileSizeBytes":  2662180,
         "guid":  "vol109-en"
+    },
+    {
+        "volume":  110,
+        "title":  "The Professor and Our Secret Night (Miya Nagai, 28, Influencer, Slender)",
+        "description":  "Female character:\nName: Miyo Nagai\nAge: 28\nOccupation: Influencer\nHair: Ponytail\nBody Type: Slender\nCharacteristics: Elegant and graceful\nSpeech Style: Polite\nAtmosphere: Soothing and comforting\nWay of Showing Affection: Skilled at pampering others\nLove Style: Proactive\nEmotional Side: Honest and straightforward\nRomantic Preference: Attracted to older men\nStatus: Single, no boyfriend",
+        "pubDate":  "Wed, 21 Oct 2026 04:31:14 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol110.mp3",
+        "durationSeconds":  485.504,
+        "durationFormatted":  "00:08:05",
+        "fileSizeBytes":  3411364,
+        "guid":  "vol110-en"
     }
 ]
