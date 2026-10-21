@@ -1164,5 +1164,16 @@
         "durationFormatted":  "00:08:13",
         "fileSizeBytes":  3261292,
         "guid":  "vol109-ja"
+    },
+    {
+        "volume":  110,
+        "title":  "教授と私だけの秘密の夜（永井 美夜・28歳・インフルエンサー・スレンダー）",
+        "description":  "登場女性:\n名前: 永井 美夜（ながい みよ）\n年齢: 28\n職業: インフルエンサー\n髪: ポニーテール\n体型: スレンダー\n特徴: 清楚・艶やか\n話し方: 丁寧\n雰囲気: 癒し系\n愛情表現: 甘えさせ上手\n恋愛スタイル: 積極的\n感情面: 素直\n恋愛観: おじさん好き\nステータス: 未婚で彼氏ナシ",
+        "pubDate":  "Wed, 21 Oct 2026 04:30:54 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/ja/episodes/vol110.mp3",
+        "durationSeconds":  598.016,
+        "durationFormatted":  "00:09:58",
+        "fileSizeBytes":  4060708,
+        "guid":  "vol110-ja"
     }
 ]
