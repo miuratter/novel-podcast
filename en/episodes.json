@@ -1164,5 +1164,16 @@
         "durationFormatted":  "00:08:05",
         "fileSizeBytes":  3411364,
         "guid":  "vol110-en"
+    },
+    {
+        "volume":  111,
+        "title":  "A Night in White Coats, the Professor\u0027s Lie (Misaki Nakao, 26, Female Doctor, Ordinary)",
+        "description":  "Female character:\nName: Misaki Nakao\nAge: 26\nOccupation: Doctor\nHair: Ponytail\nBody Type: Average\nFeatures: Big bust, baby face\nSpeech Style: Casual (uses informal speech)\nPersonality: Airheaded/natural\nAffection Style: Clingy and sweet\nLove Style: Cautious (reserved)\nEmotional Side: Pretends to be tough\nView on Love: Strong desire to get married\nStatus: Single, no boyfriend",
+        "pubDate":  "Thu, 22 Oct 2026 07:07:42 +0000",
+        "audioUrl":  "https://miuratter.github.io/novel-podcast/en/episodes/vol111.mp3",
+        "durationSeconds":  502.826667,
+        "durationFormatted":  "00:08:22",
+        "fileSizeBytes":  3528868,
+        "guid":  "vol111-en"
     }
 ]
